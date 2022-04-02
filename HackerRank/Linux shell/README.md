@@ -5,6 +5,7 @@ https://www.hackerrank.com/domains/shell
 
 Max points: 141
 
+<br>
 
 
 ## Let's Echo
@@ -20,19 +21,20 @@ https://www.hackerrank.com/challenges/bash-tutorials-lets-echo/problem
 <details>
   <summary>Solution - პასუხი</summary>
   
-  [Solution file / ფაილი პასუხით]()
+  [Solution file / სკრიპტის ფაილი](Let's%20Echo.sh)
 
   ```shell
   echo "HELLO"
   ```
   
 </details>
+<br>
 
 
 ## Looping and Skipping
 EasyBash (Basic)Max Score: 2Success Rate: 96.00%
 
-
+https:
 
 :uk: 
 
@@ -41,18 +43,21 @@ EasyBash (Basic)Max Score: 2Success Rate: 96.00%
 
 <details>
   <summary>Solution - პასუხი</summary>
+  
+  [Solution file / სკრიპტის ფაილი](  )
 
   ```shell
-  echo "HELLO"
+  
   ```
   
 </details>
+<br>
 
 
 ## A Personalized Echo
 EasyBash (Basic)Max Score: 1Success Rate: 98.41%
 
-
+https:
 
 :uk: 
 
@@ -61,11 +66,17 @@ EasyBash (Basic)Max Score: 1Success Rate: 98.41%
 
 <details>
   <summary>Solution - პასუხი</summary>
+  
+  [Solution file / სკრიპტის ფაილი](  )
 
   ```shell
-  echo "HELLO"
+  
   ```
   
 </details>
+<br>
+
+
+
 
 
