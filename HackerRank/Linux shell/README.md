@@ -8,7 +8,7 @@ Max points: 141
 <br>
 
 
-## Let's Echo
+## Let's Echo 
 EasyBash (Basic) / Max Score: 1 / Success Rate: 98.19%
 
 https://www.hackerrank.com/challenges/bash-tutorials-lets-echo/problem
@@ -19,7 +19,7 @@ https://www.hackerrank.com/challenges/bash-tutorials-lets-echo/problem
 
 
 <details>
-  <summary>Solution - პასუხი</summary>
+  <summary>Solution - ამოხსნა</summary>
   
   [Solution file / სკრიპტის ფაილი](Let's%20Echo.sh)
 
@@ -42,7 +42,7 @@ https:
 
 
 <details>
-  <summary>Solution - პასუხი</summary>
+  <summary>Solution - ამოხსნა</summary>
   
   [Solution file / სკრიპტის ფაილი](  )
 
@@ -65,7 +65,7 @@ https:
 
 
 <details>
-  <summary>Solution - პასუხი</summary>
+  <summary>Solution - ამოხსნა</summary>
   
   [Solution file / სკრიპტის ფაილი](  )
 
