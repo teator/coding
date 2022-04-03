@@ -19,14 +19,20 @@ Max points: 141
 <br>
 
 
+
+
 ### Let's Echo 
 EasyBash (Basic) / Max Score: 1 / Success Rate: 98.19%
 
-https://www.hackerrank.com/challenges/bash-tutorials-lets-echo/problem
+<details>
+  
+  ---
+  
+  :uk: Link to problem / :georgia: დავალების ლინკი : https://www.hackerrank.com/challenges/bash-tutorials-lets-echo/problem
 
-:uk: Write a bash script that prints the string "HELLO".
+  :uk: Write a bash script that prints the string "HELLO".
 
-:georgia: დაწერეთ სკრიპტი, რომელიც ბეჭდავს სტრიქონს "HELLO".
+  :georgia: დაწერეთ სკრიპტი, რომელიც ბეჭდავს სტრიქონს "HELLO".
 
 
 <details>
@@ -39,17 +45,26 @@ https://www.hackerrank.com/challenges/bash-tutorials-lets-echo/problem
   ```
   
 </details>
-<br>
+  
+  ---
+  
+</details>
+<br> <!--- ===   ===   ===   ===   ===   ===   ===   ===   ===   ===   ===   ===   ===   --->
+
 
 
 ### Looping and Skipping
 EasyBash (Basic)Max Score: 2Success Rate: 96.00%
 
-https:
+<details>
+  
+  ---
+  
+  :uk: Link to problem / :georgia: დავალების ლინკი : https
 
-:uk: 
+  :uk:  
 
-:georgia: 
+  :georgia:  
 
 
 <details>
@@ -62,17 +77,26 @@ https:
   ```
   
 </details>
-<br>
+  
+  ---
+  
+</details>
+<br> <!--- ===   ===   ===   ===   ===   ===   ===   ===   ===   ===   ===   ===   ===   --->
 
 
-## A Personalized Echo
+
+### A Personalized Echo
 EasyBash (Basic)Max Score: 1Success Rate: 98.41%
 
-https:
+<details>
+  
+  ---
+  
+  :uk: Link to problem / :georgia: დავალების ლინკი : https
 
-:uk: 
+  :uk:  
 
-:georgia: 
+  :georgia:  
 
 
 <details>
@@ -85,18 +109,26 @@ https:
   ```
   
 </details>
-<br>
+  
+  ---
+  
+</details>
+<br> <!--- ===   ===   ===   ===   ===   ===   ===   ===   ===   ===   ===   ===   ===   --->
 
 
 
-## Looping with Numbers
+### Looping with Numbers
 EasyBash (Basic)Max Score: 2Success Rate: 99.46%
 
-https:
+<details>
+  
+  ---
+  
+  :uk: Link to problem / :georgia: დავალების ლინკი : https
 
-:uk: 
+  :uk:  
 
-:georgia: 
+  :georgia:  
 
 
 <details>
@@ -109,18 +141,26 @@ https:
   ```
   
 </details>
-<br>
+  
+  ---
+  
+</details>
+<br> <!--- ===   ===   ===   ===   ===   ===   ===   ===   ===   ===   ===   ===   ===   --->
 
 
 
-## The World of Numbers
+### The World of Numbers
 EasyBash (Basic)Max Score: 2Success Rate: 97.38%
 
-https:
+<details>
+  
+  ---
+  
+  :uk: Link to problem / :georgia: დავალების ლინკი : https
 
-:uk: 
+  :uk:  
 
-:georgia: 
+  :georgia:  
 
 
 <details>
@@ -133,18 +173,26 @@ https:
   ```
   
 </details>
-<br>
+  
+  ---
+  
+</details>
+<br> <!--- ===   ===   ===   ===   ===   ===   ===   ===   ===   ===   ===   ===   ===   --->
 
 
 
-## Comparing Numbers
+### Comparing Numbers
 EasyBash (Basic)Max Score: 3Success Rate: 97.75%
 
-https:
+<details>
+  
+  ---
+  
+  :uk: Link to problem / :georgia: დავალების ლინკი : https
 
-:uk: 
+  :uk:  
 
-:georgia: 
+  :georgia:  
 
 
 <details>
@@ -157,18 +205,26 @@ https:
   ```
   
 </details>
-<br>
+  
+  ---
+  
+</details>
+<br> <!--- ===   ===   ===   ===   ===   ===   ===   ===   ===   ===   ===   ===   ===   --->
 
 
 
-## Getting started with conditionals
+### Getting started with conditionals
 EasyBash (Basic)Max Score: 3Success Rate: 97.53%
 
-https:
+<details>
+  
+  ---
+  
+  :uk: Link to problem / :georgia: დავალების ლინკი : https
 
-:uk: 
+  :uk:  
 
-:georgia: 
+  :georgia:  
 
 
 <details>
@@ -181,18 +237,26 @@ https:
   ```
   
 </details>
-<br>
+  
+  ---
+  
+</details>
+<br> <!--- ===   ===   ===   ===   ===   ===   ===   ===   ===   ===   ===   ===   ===   --->
 
 
 
-## More on Conditionals
+### More on Conditionals
 EasyBash (Basic)Max Score: 3Success Rate: 96.49%
 
-https:
+<details>
+  
+  ---
+  
+  :uk: Link to problem / :georgia: დავალების ლინკი : https
 
-:uk: 
+  :uk:  
 
-:georgia: 
+  :georgia:  
 
 
 <details>
@@ -205,18 +269,26 @@ https:
   ```
   
 </details>
-<br>
+  
+  ---
+  
+</details>
+<br> <!--- ===   ===   ===   ===   ===   ===   ===   ===   ===   ===   ===   ===   ===   --->
 
 
 
-## Arithmetic Operations
+### Arithmetic Operations
 MediumBash (Basic)Max Score: 3Success Rate: 91.59%
 
-https:
+<details>
+  
+  ---
+  
+  :uk: Link to problem / :georgia: დავალების ლინკი : https
 
-:uk: 
+  :uk:  
 
-:georgia: 
+  :georgia:  
 
 
 <details>
@@ -229,18 +301,26 @@ https:
   ```
   
 </details>
-<br>
+  
+  ---
+  
+</details>
+<br> <!--- ===   ===   ===   ===   ===   ===   ===   ===   ===   ===   ===   ===   ===   --->
 
 
 
-## Compute the Average
+### Compute the Average
 MediumBash (Basic)Max Score: 4Success Rate: 90.01%
 
-https:
+<details>
+  
+  ---
+  
+  :uk: Link to problem / :georgia: დავალების ლინკი : https
 
-:uk: 
+  :uk:  
 
-:georgia: 
+  :georgia:  
 
 
 <details>
@@ -253,18 +333,26 @@ https:
   ```
   
 </details>
-<br>
+  
+  ---
+  
+</details>
+<br> <!--- ===   ===   ===   ===   ===   ===   ===   ===   ===   ===   ===   ===   ===   --->
 
 
 
-## Functions and Fractals - Recursive Trees - Bash!
+### Functions and Fractals - Recursive Trees - Bash!
 HardMax Score: 30Success Rate: 93.20%
 
-https:
+<details>
+  
+  ---
+  
+  :uk: Link to problem / :georgia: დავალების ლინკი : https
 
-:uk: 
+  :uk:  
 
-:georgia: 
+  :georgia:  
 
 
 <details>
@@ -277,18 +365,26 @@ https:
   ```
   
 </details>
-<br>
+  
+  ---
+  
+</details>
+<br> <!--- ===   ===   ===   ===   ===   ===   ===   ===   ===   ===   ===   ===   ===   --->
 
 
 
-## Cut #1
+### Cut #1
 EasyBash (Basic)Max Score: 1Success Rate: 96.67%
 
-https:
+<details>
+  
+  ---
+  
+  :uk: Link to problem / :georgia: დავალების ლინკი : https
 
-:uk: 
+  :uk:  
 
-:georgia: 
+  :georgia:  
 
 
 <details>
@@ -301,18 +397,26 @@ https:
   ```
   
 </details>
-<br>
+  
+  ---
+  
+</details>
+<br> <!--- ===   ===   ===   ===   ===   ===   ===   ===   ===   ===   ===   ===   ===   --->
 
 
 
-## Cut #2
+### Cut #2
 EasyMax Score: 1Success Rate: 98.34%
 
-https:
+<details>
+  
+  ---
+  
+  :uk: Link to problem / :georgia: დავალების ლინკი : https
 
-:uk: 
+  :uk:  
 
-:georgia: 
+  :georgia:  
 
 
 <details>
@@ -325,18 +429,26 @@ https:
   ```
   
 </details>
-<br>
+  
+  ---
+  
+</details>
+<br> <!--- ===   ===   ===   ===   ===   ===   ===   ===   ===   ===   ===   ===   ===   --->
 
 
 
-## Cut #3
+### Cut #3
 EasyBash (Basic)Max Score: 1Success Rate: 99.25%
 
-https:
+<details>
+  
+  ---
+  
+  :uk: Link to problem / :georgia: დავალების ლინკი : https
 
-:uk: 
+  :uk:  
 
-:georgia: 
+  :georgia:  
 
 
 <details>
@@ -349,18 +461,26 @@ https:
   ```
   
 </details>
-<br>
+  
+  ---
+  
+</details>
+<br> <!--- ===   ===   ===   ===   ===   ===   ===   ===   ===   ===   ===   ===   ===   --->
 
 
 
-## Cut #4
+### Cut #4
 EasyMax Score: 1Success Rate: 99.66%
 
-https:
+<details>
+  
+  ---
+  
+  :uk: Link to problem / :georgia: დავალების ლინკი : https
 
-:uk: 
+  :uk:  
 
-:georgia: 
+  :georgia:  
 
 
 <details>
@@ -373,18 +493,26 @@ https:
   ```
   
 </details>
-<br>
+  
+  ---
+  
+</details>
+<br> <!--- ===   ===   ===   ===   ===   ===   ===   ===   ===   ===   ===   ===   ===   --->
 
 
 
-## Cut #5
+### Cut #5
 EasyMax Score: 1Success Rate: 98.14%
 
-https:
+<details>
+  
+  ---
+  
+  :uk: Link to problem / :georgia: დავალების ლინკი : https
 
-:uk: 
+  :uk:  
 
-:georgia: 
+  :georgia:  
 
 
 <details>
@@ -397,18 +525,26 @@ https:
   ```
   
 </details>
-<br>
+  
+  ---
+  
+</details>
+<br> <!--- ===   ===   ===   ===   ===   ===   ===   ===   ===   ===   ===   ===   ===   --->
 
 
 
-## Cut #6
+### Cut #6
 EasyMax Score: 1Success Rate: 99.51%
 
-https:
+<details>
+  
+  ---
+  
+  :uk: Link to problem / :georgia: დავალების ლინკი : https
 
-:uk: 
+  :uk:  
 
-:georgia: 
+  :georgia:  
 
 
 <details>
@@ -421,18 +557,26 @@ https:
   ```
   
 </details>
-<br>
+  
+  ---
+  
+</details>
+<br> <!--- ===   ===   ===   ===   ===   ===   ===   ===   ===   ===   ===   ===   ===   --->
 
 
 
-## Cut #7
+### Cut #7
 EasyMax Score: 1Success Rate: 98.45%
 
-https:
+<details>
+  
+  ---
+  
+  :uk: Link to problem / :georgia: დავალების ლინკი : https
 
-:uk: 
+  :uk:  
 
-:georgia: 
+  :georgia:  
 
 
 <details>
@@ -445,18 +589,26 @@ https:
   ```
   
 </details>
-<br>
+  
+  ---
+  
+</details>
+<br> <!--- ===   ===   ===   ===   ===   ===   ===   ===   ===   ===   ===   ===   ===   --->
 
 
 
-## Cut #8
+### Cut #8
 EasyMax Score: 1Success Rate: 99.77%
 
-https:
+<details>
+  
+  ---
+  
+  :uk: Link to problem / :georgia: დავალების ლინკი : https
 
-:uk: 
+  :uk:  
 
-:georgia: 
+  :georgia:  
 
 
 <details>
@@ -469,18 +621,26 @@ https:
   ```
   
 </details>
-<br>
+  
+  ---
+  
+</details>
+<br> <!--- ===   ===   ===   ===   ===   ===   ===   ===   ===   ===   ===   ===   ===   --->
 
 
 
-## Cut #9
+### Cut #9
 EasyMax Score: 1Success Rate: 99.10%
 
-https:
+<details>
+  
+  ---
+  
+  :uk: Link to problem / :georgia: დავალების ლინკი : https
 
-:uk: 
+  :uk:  
 
-:georgia: 
+  :georgia:  
 
 
 <details>
@@ -493,18 +653,26 @@ https:
   ```
   
 </details>
-<br>
+  
+  ---
+  
+</details>
+<br> <!--- ===   ===   ===   ===   ===   ===   ===   ===   ===   ===   ===   ===   ===   --->
 
 
 
-## Head of a Text File #1
+### Head of a Text File #1
 EasyMax Score: 2Success Rate: 99.53%
 
-https:
+<details>
+  
+  ---
+  
+  :uk: Link to problem / :georgia: დავალების ლინკი : https
 
-:uk: 
+  :uk:  
 
-:georgia: 
+  :georgia:  
 
 
 <details>
@@ -517,18 +685,26 @@ https:
   ```
   
 </details>
-<br>
+  
+  ---
+  
+</details>
+<br> <!--- ===   ===   ===   ===   ===   ===   ===   ===   ===   ===   ===   ===   ===   --->
 
 
 
-## Head of a Text File #2
+### Head of a Text File #2
 EasyMax Score: 2Success Rate: 98.67%
 
-https:
+<details>
+  
+  ---
+  
+  :uk: Link to problem / :georgia: დავალების ლინკი : https
 
-:uk: 
+  :uk:  
 
-:georgia: 
+  :georgia:  
 
 
 <details>
@@ -541,18 +717,26 @@ https:
   ```
   
 </details>
-<br>
+  
+  ---
+  
+</details>
+<br> <!--- ===   ===   ===   ===   ===   ===   ===   ===   ===   ===   ===   ===   ===   --->
 
 
 
-## Middle of a Text File
+### Middle of a Text File
 EasyMax Score: 3Success Rate: 99.04%
 
-https:
+<details>
+  
+  ---
+  
+  :uk: Link to problem / :georgia: დავალების ლინკი : https
 
-:uk: 
+  :uk:  
 
-:georgia: 
+  :georgia:  
 
 
 <details>
@@ -565,18 +749,26 @@ https:
   ```
   
 </details>
-<br>
+  
+  ---
+  
+</details>
+<br> <!--- ===   ===   ===   ===   ===   ===   ===   ===   ===   ===   ===   ===   ===   --->
 
 
 
-## Tail of a Text File #1
+### Tail of a Text File #1
 EasyMax Score: 2Success Rate: 99.86%
 
-https:
+<details>
+  
+  ---
+  
+  :uk: Link to problem / :georgia: დავალების ლინკი : https
 
-:uk: 
+  :uk:  
 
-:georgia: 
+  :georgia:  
 
 
 <details>
@@ -589,18 +781,26 @@ https:
   ```
   
 </details>
-<br>
+  
+  ---
+  
+</details>
+<br> <!--- ===   ===   ===   ===   ===   ===   ===   ===   ===   ===   ===   ===   ===   --->
 
 
 
-## Tail of a Text File #2
+### Tail of a Text File #2
 EasyMax Score: 2Success Rate: 99.61%
 
-https:
+<details>
+  
+  ---
+  
+  :uk: Link to problem / :georgia: დავალების ლინკი : https
 
-:uk: 
+  :uk:  
 
-:georgia: 
+  :georgia:  
 
 
 <details>
@@ -613,18 +813,26 @@ https:
   ```
   
 </details>
-<br>
+  
+  ---
+  
+</details>
+<br> <!--- ===   ===   ===   ===   ===   ===   ===   ===   ===   ===   ===   ===   ===   --->
 
 
 
-## 'Tr' Command #1
+### 'Tr' Command #1
 EasyMax Score: 1Success Rate: 98.99%
 
-https:
+<details>
+  
+  ---
+  
+  :uk: Link to problem / :georgia: დავალების ლინკი : https
 
-:uk: 
+  :uk:  
 
-:georgia: 
+  :georgia:  
 
 
 <details>
@@ -637,18 +845,26 @@ https:
   ```
   
 </details>
-<br>
+  
+  ---
+  
+</details>
+<br> <!--- ===   ===   ===   ===   ===   ===   ===   ===   ===   ===   ===   ===   ===   --->
 
 
 
-## 'Tr' Command #2
+### 'Tr' Command #2
 EasyMax Score: 1Success Rate: 99.24%
 
-https:
+<details>
+  
+  ---
+  
+  :uk: Link to problem / :georgia: დავალების ლინკი : https
 
-:uk: 
+  :uk:  
 
-:georgia: 
+  :georgia:  
 
 
 <details>
@@ -661,18 +877,26 @@ https:
   ```
   
 </details>
-<br>
+  
+  ---
+  
+</details>
+<br> <!--- ===   ===   ===   ===   ===   ===   ===   ===   ===   ===   ===   ===   ===   --->
 
 
 
-## 'Tr' Command #3
+### 'Tr' Command #3
 EasyMax Score: 1Success Rate: 99.26%
 
-https:
+<details>
+  
+  ---
+  
+  :uk: Link to problem / :georgia: დავალების ლინკი : https
 
-:uk: 
+  :uk:  
 
-:georgia: 
+  :georgia:  
 
 
 <details>
@@ -685,18 +909,26 @@ https:
   ```
   
 </details>
-<br>
+  
+  ---
+  
+</details>
+<br> <!--- ===   ===   ===   ===   ===   ===   ===   ===   ===   ===   ===   ===   ===   --->
 
 
 
-## Sort Command #1
+### Sort Command #1
 EasyMax Score: 1Success Rate: 99.79%
 
-https:
+<details>
+  
+  ---
+  
+  :uk: Link to problem / :georgia: დავალების ლინკი : https
 
-:uk: 
+  :uk:  
 
-:georgia: 
+  :georgia:  
 
 
 <details>
@@ -709,18 +941,26 @@ https:
   ```
   
 </details>
-<br>
+  
+  ---
+  
+</details>
+<br> <!--- ===   ===   ===   ===   ===   ===   ===   ===   ===   ===   ===   ===   ===   --->
 
 
 
-## Sort Command #2
+### Sort Command #2
 EasyMax Score: 1Success Rate: 99.89%
 
-https:
+<details>
+  
+  ---
+  
+  :uk: Link to problem / :georgia: დავალების ლინკი : https
 
-:uk: 
+  :uk:  
 
-:georgia: 
+  :georgia:  
 
 
 <details>
@@ -733,18 +973,26 @@ https:
   ```
   
 </details>
-<br>
+  
+  ---
+  
+</details>
+<br> <!--- ===   ===   ===   ===   ===   ===   ===   ===   ===   ===   ===   ===   ===   --->
 
 
 
-## Sort Command #3
+### Sort Command #3
 EasyMax Score: 1Success Rate: 99.92%
 
-https:
+<details>
+  
+  ---
+  
+  :uk: Link to problem / :georgia: დავალების ლინკი : https
 
-:uk: 
+  :uk:  
 
-:georgia: 
+  :georgia:  
 
 
 <details>
@@ -757,18 +1005,26 @@ https:
   ```
   
 </details>
-<br>
+  
+  ---
+  
+</details>
+<br> <!--- ===   ===   ===   ===   ===   ===   ===   ===   ===   ===   ===   ===   ===   --->
 
 
 
-## Sort Command #4
+### Sort Command #4
 EasyMax Score: 1Success Rate: 99.89%
 
-https:
+<details>
+  
+  ---
+  
+  :uk: Link to problem / :georgia: დავალების ლინკი : https
 
-:uk: 
+  :uk:  
 
-:georgia: 
+  :georgia:  
 
 
 <details>
@@ -781,18 +1037,26 @@ https:
   ```
   
 </details>
-<br>
+  
+  ---
+  
+</details>
+<br> <!--- ===   ===   ===   ===   ===   ===   ===   ===   ===   ===   ===   ===   ===   --->
 
 
 
-## Sort Command #5
+### Sort Command #5
 EasyMax Score: 1Success Rate: 96.74%
 
-https:
+<details>
+  
+  ---
+  
+  :uk: Link to problem / :georgia: დავალების ლინკი : https
 
-:uk: 
+  :uk:  
 
-:georgia: 
+  :georgia:  
 
 
 <details>
@@ -805,18 +1069,26 @@ https:
   ```
   
 </details>
-<br>
+  
+  ---
+  
+</details>
+<br> <!--- ===   ===   ===   ===   ===   ===   ===   ===   ===   ===   ===   ===   ===   --->
 
 
 
-## 'Sort' command #6
+### 'Sort' command #6
 EasyMax Score: 1Success Rate: 99.14%
 
-https:
+<details>
+  
+  ---
+  
+  :uk: Link to problem / :georgia: დავალების ლინკი : https
 
-:uk: 
+  :uk:  
 
-:georgia: 
+  :georgia:  
 
 
 <details>
@@ -829,18 +1101,26 @@ https:
   ```
   
 </details>
-<br>
+  
+  ---
+  
+</details>
+<br> <!--- ===   ===   ===   ===   ===   ===   ===   ===   ===   ===   ===   ===   ===   --->
 
 
 
-## 'Sort' command #7
+### 'Sort' command #7
 EasyMax Score: 1Success Rate: 99.38%
 
-https:
+<details>
+  
+  ---
+  
+  :uk: Link to problem / :georgia: დავალების ლინკი : https
 
-:uk: 
+  :uk:  
 
-:georgia: 
+  :georgia:  
 
 
 <details>
@@ -853,18 +1133,26 @@ https:
   ```
   
 </details>
-<br>
+  
+  ---
+  
+</details>
+<br> <!--- ===   ===   ===   ===   ===   ===   ===   ===   ===   ===   ===   ===   ===   --->
 
 
 
-## 'Uniq' Command #1
+### 'Uniq' Command #1
 EasyMax Score: 1Success Rate: 99.09%
 
-https:
+<details>
+  
+  ---
+  
+  :uk: Link to problem / :georgia: დავალების ლინკი : https
 
-:uk: 
+  :uk:  
 
-:georgia: 
+  :georgia:  
 
 
 <details>
@@ -877,18 +1165,26 @@ https:
   ```
   
 </details>
-<br>
+  
+  ---
+  
+</details>
+<br> <!--- ===   ===   ===   ===   ===   ===   ===   ===   ===   ===   ===   ===   ===   --->
 
 
 
-## 'Uniq' Command #2
+### 'Uniq' Command #2
 EasyMax Score: 1Success Rate: 95.86%
 
-https:
+<details>
+  
+  ---
+  
+  :uk: Link to problem / :georgia: დავალების ლინკი : https
 
-:uk: 
+  :uk:  
 
-:georgia: 
+  :georgia:  
 
 
 <details>
@@ -901,18 +1197,26 @@ https:
   ```
   
 </details>
-<br>
+  
+  ---
+  
+</details>
+<br> <!--- ===   ===   ===   ===   ===   ===   ===   ===   ===   ===   ===   ===   ===   --->
 
 
 
-## 'Uniq' command #3
+### 'Uniq' command #3
 EasyMax Score: 1Success Rate: 98.45%
 
-https:
+<details>
+  
+  ---
+  
+  :uk: Link to problem / :georgia: დავალების ლინკი : https
 
-:uk: 
+  :uk:  
 
-:georgia: 
+  :georgia:  
 
 
 <details>
@@ -925,18 +1229,26 @@ https:
   ```
   
 </details>
-<br>
+  
+  ---
+  
+</details>
+<br> <!--- ===   ===   ===   ===   ===   ===   ===   ===   ===   ===   ===   ===   ===   --->
 
 
 
-## 'Uniq' command #4
+### 'Uniq' command #4
 EasyMax Score: 1Success Rate: 99.75%
 
-https:
+<details>
+  
+  ---
+  
+  :uk: Link to problem / :georgia: დავალების ლინკი : https
 
-:uk: 
+  :uk:  
 
-:georgia: 
+  :georgia:  
 
 
 <details>
@@ -949,18 +1261,26 @@ https:
   ```
   
 </details>
-<br>
+  
+  ---
+  
+</details>
+<br> <!--- ===   ===   ===   ===   ===   ===   ===   ===   ===   ===   ===   ===   ===   --->
 
 
 
-## Paste - 3
+### Paste - 3
 MediumMax Score: 2Success Rate: 99.53%
 
-https:
+<details>
+  
+  ---
+  
+  :uk: Link to problem / :georgia: დავალების ლინკი : https
 
-:uk: 
+  :uk:  
 
-:georgia: 
+  :georgia:  
 
 
 <details>
@@ -973,18 +1293,26 @@ https:
   ```
   
 </details>
-<br>
+  
+  ---
+  
+</details>
+<br> <!--- ===   ===   ===   ===   ===   ===   ===   ===   ===   ===   ===   ===   ===   --->
 
 
 
-## Paste - 4
+### Paste - 4
 MediumMax Score: 2Success Rate: 99.66%
 
-https:
+<details>
+  
+  ---
+  
+  :uk: Link to problem / :georgia: დავალების ლინკი : https
 
-:uk: 
+  :uk:  
 
-:georgia: 
+  :georgia:  
 
 
 <details>
@@ -997,18 +1325,26 @@ https:
   ```
   
 </details>
-<br>
+  
+  ---
+  
+</details>
+<br> <!--- ===   ===   ===   ===   ===   ===   ===   ===   ===   ===   ===   ===   ===   --->
 
 
 
-## Paste - 1
+### Paste - 1
 MediumMax Score: 2Success Rate: 99.42%
 
-https:
+<details>
+  
+  ---
+  
+  :uk: Link to problem / :georgia: დავალების ლინკი : https
 
-:uk: 
+  :uk:  
 
-:georgia: 
+  :georgia:  
 
 
 <details>
@@ -1021,18 +1357,26 @@ https:
   ```
   
 </details>
-<br>
+  
+  ---
+  
+</details>
+<br> <!--- ===   ===   ===   ===   ===   ===   ===   ===   ===   ===   ===   ===   ===   --->
 
 
 
-## Paste - 2
+### Paste - 2
 MediumMax Score: 2Success Rate: 99.59%
 
-https:
+<details>
+  
+  ---
+  
+  :uk: Link to problem / :georgia: დავალების ლინკი : https
 
-:uk: 
+  :uk:  
 
-:georgia: 
+  :georgia:  
 
 
 <details>
@@ -1045,18 +1389,26 @@ https:
   ```
   
 </details>
-<br>
+  
+  ---
+  
+</details>
+<br> <!--- ===   ===   ===   ===   ===   ===   ===   ===   ===   ===   ===   ===   ===   --->
 
 
 
-## Read in an Array
+### Read in an Array
 EasyMax Score: 1Success Rate: 97.87%
 
-https:
+<details>
+  
+  ---
+  
+  :uk: Link to problem / :georgia: დავალების ლინკი : https
 
-:uk: 
+  :uk:  
 
-:georgia: 
+  :georgia:  
 
 
 <details>
@@ -1069,18 +1421,26 @@ https:
   ```
   
 </details>
-<br>
+  
+  ---
+  
+</details>
+<br> <!--- ===   ===   ===   ===   ===   ===   ===   ===   ===   ===   ===   ===   ===   --->
 
 
 
-## Slice an Array
+### Slice an Array
 EasyMax Score: 1Success Rate: 99.20%
 
-https:
+<details>
+  
+  ---
+  
+  :uk: Link to problem / :georgia: დავალების ლინკი : https
 
-:uk: 
+  :uk:  
 
-:georgia: 
+  :georgia:  
 
 
 <details>
@@ -1093,18 +1453,26 @@ https:
   ```
   
 </details>
-<br>
+  
+  ---
+  
+</details>
+<br> <!--- ===   ===   ===   ===   ===   ===   ===   ===   ===   ===   ===   ===   ===   --->
 
 
 
-## Filter an Array with Patterns
+### Filter an Array with Patterns
 MediumMax Score: 1Success Rate: 97.73%
 
-https:
+<details>
+  
+  ---
+  
+  :uk: Link to problem / :georgia: დავალების ლინკი : https
 
-:uk: 
+  :uk:  
 
-:georgia: 
+  :georgia:  
 
 
 <details>
@@ -1117,18 +1485,26 @@ https:
   ```
   
 </details>
-<br>
+  
+  ---
+  
+</details>
+<br> <!--- ===   ===   ===   ===   ===   ===   ===   ===   ===   ===   ===   ===   ===   --->
 
 
 
-## Concatenate an array with itself
+### Concatenate an array with itself
 EasyMax Score: 1Success Rate: 98.28%
 
-https:
+<details>
+  
+  ---
+  
+  :uk: Link to problem / :georgia: დავალების ლინკი : https
 
-:uk: 
+  :uk:  
 
-:georgia: 
+  :georgia:  
 
 
 <details>
@@ -1141,18 +1517,26 @@ https:
   ```
   
 </details>
-<br>
+  
+  ---
+  
+</details>
+<br> <!--- ===   ===   ===   ===   ===   ===   ===   ===   ===   ===   ===   ===   ===   --->
 
 
 
-## Display an element of an array
+### Display an element of an array
 EasyMax Score: 1Success Rate: 99.49%
 
-https:
+<details>
+  
+  ---
+  
+  :uk: Link to problem / :georgia: დავალების ლინკი : https
 
-:uk: 
+  :uk:  
 
-:georgia: 
+  :georgia:  
 
 
 <details>
@@ -1165,18 +1549,26 @@ https:
   ```
   
 </details>
-<br>
+  
+  ---
+  
+</details>
+<br> <!--- ===   ===   ===   ===   ===   ===   ===   ===   ===   ===   ===   ===   ===   --->
 
 
 
-## Count the number of elements in an Array
+### Count the number of elements in an Array
 EasyMax Score: 1Success Rate: 99.34%
 
-https:
+<details>
+  
+  ---
+  
+  :uk: Link to problem / :georgia: დავალების ლინკი : https
 
-:uk: 
+  :uk:  
 
-:georgia: 
+  :georgia:  
 
 
 <details>
@@ -1189,18 +1581,26 @@ https:
   ```
   
 </details>
-<br>
+  
+  ---
+  
+</details>
+<br> <!--- ===   ===   ===   ===   ===   ===   ===   ===   ===   ===   ===   ===   ===   --->
 
 
 
-## Remove the First Capital Letter from Each Element
+### Remove the First Capital Letter from Each Element
 MediumMax Score: 1Success Rate: 98.69%
 
-https:
+<details>
+  
+  ---
+  
+  :uk: Link to problem / :georgia: დავალების ლინკი : https
 
-:uk: 
+  :uk:  
 
-:georgia: 
+  :georgia:  
 
 
 <details>
@@ -1213,18 +1613,26 @@ https:
   ```
   
 </details>
-<br>
+  
+  ---
+  
+</details>
+<br> <!--- ===   ===   ===   ===   ===   ===   ===   ===   ===   ===   ===   ===   ===   --->
 
 
 
-## Lonely Integer - Bash!
+### Lonely Integer - Bash!
 HardMax Score: 10Success Rate: 97.63%
 
-https:
+<details>
+  
+  ---
+  
+  :uk: Link to problem / :georgia: დავალების ლინკი : https
 
-:uk: 
+  :uk:  
 
-:georgia: 
+  :georgia:  
 
 
 <details>
@@ -1237,18 +1645,26 @@ https:
   ```
   
 </details>
-<br>
+  
+  ---
+  
+</details>
+<br> <!--- ===   ===   ===   ===   ===   ===   ===   ===   ===   ===   ===   ===   ===   --->
 
 
 
-## 'Awk' - 3
+### 'Awk' - 3
 MediumMax Score: 2Success Rate: 98.14%
 
-https:
+<details>
+  
+  ---
+  
+  :uk: Link to problem / :georgia: დავალების ლინკი : https
 
-:uk: 
+  :uk:  
 
-:georgia: 
+  :georgia:  
 
 
 <details>
@@ -1261,18 +1677,26 @@ https:
   ```
   
 </details>
-<br>
+  
+  ---
+  
+</details>
+<br> <!--- ===   ===   ===   ===   ===   ===   ===   ===   ===   ===   ===   ===   ===   --->
 
 
 
-## 'Awk' - 4
+### 'Awk' - 4
 MediumMax Score: 2Success Rate: 98.25%
 
-https:
+<details>
+  
+  ---
+  
+  :uk: Link to problem / :georgia: დავალების ლინკი : https
 
-:uk: 
+  :uk:  
 
-:georgia: 
+  :georgia:  
 
 
 <details>
@@ -1285,18 +1709,26 @@ https:
   ```
   
 </details>
-<br>
+  
+  ---
+  
+</details>
+<br> <!--- ===   ===   ===   ===   ===   ===   ===   ===   ===   ===   ===   ===   ===   --->
 
 
 
-## 'Grep' #1
+### 'Grep' #1
 MediumMax Score: 2Success Rate: 97.54%
 
-https:
+<details>
+  
+  ---
+  
+  :uk: Link to problem / :georgia: დავალების ლინკი : https
 
-:uk: 
+  :uk:  
 
-:georgia: 
+  :georgia:  
 
 
 <details>
@@ -1309,18 +1741,26 @@ https:
   ```
   
 </details>
-<br>
+  
+  ---
+  
+</details>
+<br> <!--- ===   ===   ===   ===   ===   ===   ===   ===   ===   ===   ===   ===   ===   --->
 
 
 
-## 'Grep' #2
+### 'Grep' #2
 MediumMax Score: 2Success Rate: 96.33%
 
-https:
+<details>
+  
+  ---
+  
+  :uk: Link to problem / :georgia: დავალების ლინკი : https
 
-:uk: 
+  :uk:  
 
-:georgia: 
+  :georgia:  
 
 
 <details>
@@ -1333,18 +1773,26 @@ https:
   ```
   
 </details>
-<br>
+  
+  ---
+  
+</details>
+<br> <!--- ===   ===   ===   ===   ===   ===   ===   ===   ===   ===   ===   ===   ===   --->
 
 
 
-## 'Grep' #3
+### 'Grep' #3
 MediumMax Score: 2Success Rate: 99.53%
 
-https:
+<details>
+  
+  ---
+  
+  :uk: Link to problem / :georgia: დავალების ლინკი : https
 
-:uk: 
+  :uk:  
 
-:georgia: 
+  :georgia:  
 
 
 <details>
@@ -1357,18 +1805,26 @@ https:
   ```
   
 </details>
-<br>
+  
+  ---
+  
+</details>
+<br> <!--- ===   ===   ===   ===   ===   ===   ===   ===   ===   ===   ===   ===   ===   --->
 
 
 
-## 'Grep' - A
+### 'Grep' - A
 EasyMax Score: 2Success Rate: 95.55%
 
-https:
+<details>
+  
+  ---
+  
+  :uk: Link to problem / :georgia: დავალების ლინკი : https
 
-:uk: 
+  :uk:  
 
-:georgia: 
+  :georgia:  
 
 
 <details>
@@ -1381,18 +1837,26 @@ https:
   ```
   
 </details>
-<br>
+  
+  ---
+  
+</details>
+<br> <!--- ===   ===   ===   ===   ===   ===   ===   ===   ===   ===   ===   ===   ===   --->
 
 
 
-## 'Grep' - B
+### 'Grep' - B
 EasyMax Score: 2Success Rate: 97.07%
 
-https:
+<details>
+  
+  ---
+  
+  :uk: Link to problem / :georgia: დავალების ლინკი : https
 
-:uk: 
+  :uk:  
 
-:georgia: 
+  :georgia:  
 
 
 <details>
@@ -1405,18 +1869,26 @@ https:
   ```
   
 </details>
-<br>
+  
+  ---
+  
+</details>
+<br> <!--- ===   ===   ===   ===   ===   ===   ===   ===   ===   ===   ===   ===   ===   --->
 
 
 
-## 'Sed' command #1
+### 'Sed' command #1
 MediumMax Score: 2Success Rate: 97.36%
 
-https:
+<details>
+  
+  ---
+  
+  :uk: Link to problem / :georgia: დავალების ლინკი : https
 
-:uk: 
+  :uk:  
 
-:georgia: 
+  :georgia:  
 
 
 <details>
@@ -1429,18 +1901,26 @@ https:
   ```
   
 </details>
-<br>
+  
+  ---
+  
+</details>
+<br> <!--- ===   ===   ===   ===   ===   ===   ===   ===   ===   ===   ===   ===   ===   --->
 
 
 
-## 'Sed' command #2
+### 'Sed' command #2
 MediumMax Score: 2Success Rate: 99.35%
 
-https:
+<details>
+  
+  ---
+  
+  :uk: Link to problem / :georgia: დავალების ლინკი : https
 
-:uk: 
+  :uk:  
 
-:georgia: 
+  :georgia:  
 
 
 <details>
@@ -1453,18 +1933,26 @@ https:
   ```
   
 </details>
-<br>
+  
+  ---
+  
+</details>
+<br> <!--- ===   ===   ===   ===   ===   ===   ===   ===   ===   ===   ===   ===   ===   --->
 
 
 
-## 'Sed' command #3
+### 'Sed' command #3
 EasyMax Score: 2Success Rate: 99.19%
 
-https:
+<details>
+  
+  ---
+  
+  :uk: Link to problem / :georgia: დავალების ლინკი : https
 
-:uk: 
+  :uk:  
 
-:georgia: 
+  :georgia:  
 
 
 <details>
@@ -1477,18 +1965,26 @@ https:
   ```
   
 </details>
-<br>
+  
+  ---
+  
+</details>
+<br> <!--- ===   ===   ===   ===   ===   ===   ===   ===   ===   ===   ===   ===   ===   --->
 
 
 
-## 'Sed' command #4
+### 'Sed' command #4
 HardMax Score: 2Success Rate: 98.69%
 
-https:
+<details>
+  
+  ---
+  
+  :uk: Link to problem / :georgia: დავალების ლინკი : https
 
-:uk: 
+  :uk:  
 
-:georgia: 
+  :georgia:  
 
 
 <details>
@@ -1501,18 +1997,26 @@ https:
   ```
   
 </details>
-<br>
+  
+  ---
+  
+</details>
+<br> <!--- ===   ===   ===   ===   ===   ===   ===   ===   ===   ===   ===   ===   ===   --->
 
 
 
-## 'Sed' command #5
+### 'Sed' command #5
 HardMax Score: 2Success Rate: 97.20%
 
-https:
+<details>
+  
+  ---
+  
+  :uk: Link to problem / :georgia: დავალების ლინკი : https
 
-:uk: 
+  :uk:  
 
-:georgia: 
+  :georgia:  
 
 
 <details>
@@ -1525,18 +2029,26 @@ https:
   ```
   
 </details>
-<br>
+  
+  ---
+  
+</details>
+<br> <!--- ===   ===   ===   ===   ===   ===   ===   ===   ===   ===   ===   ===   ===   --->
 
 
 
-## 'Awk' - 1
+### 'Awk' - 1
 MediumMax Score: 2Success Rate: 98.90%
 
-https:
+<details>
+  
+  ---
+  
+  :uk: Link to problem / :georgia: დავალების ლინკი : https
 
-:uk: 
+  :uk:  
 
-:georgia: 
+  :georgia:  
 
 
 <details>
@@ -1549,18 +2061,26 @@ https:
   ```
   
 </details>
-<br>
+  
+  ---
+  
+</details>
+<br> <!--- ===   ===   ===   ===   ===   ===   ===   ===   ===   ===   ===   ===   ===   --->
 
 
 
-## 'Awk' - 2
+### 'Awk' - 2
 MediumMax Score: 2Success Rate: 98.78%
 
-https:
+<details>
+  
+  ---
+  
+  :uk: Link to problem / :georgia: დავალების ლინკი : https
 
-:uk: 
+  :uk:  
 
-:georgia: 
+  :georgia:  
 
 
 <details>
@@ -1573,9 +2093,10 @@ https:
   ```
   
 </details>
-<br>
-
-
-
+  
+  ---
+  
+</details>
+<br> <!--- ===   ===   ===   ===   ===   ===   ===   ===   ===   ===   ===   ===   ===   --->
 
 
