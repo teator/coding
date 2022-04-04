@@ -5,34 +5,89 @@ https://www.hackerrank.com/domains/shell
 
 Max points: 141
 
+- [HackerRank - Linux shell](#hackerrank---linux-shell)
+    + [Let's Echo](#lets-echo)
+    + [Looping and Skipping](#looping-and-skipping)
+    + [A Personalized Echo](#a-personalized-echo)
+    + [Looping with Numbers](#looping-with-numbers)
+    + [The World of Numbers](#the-world-of-numbers)
+    + [Comparing Numbers](#comparing-numbers)
+    + [Getting started with conditionals](#getting-started-with-conditionals)
+    + [More on Conditionals](#more-on-conditionals)
+    + [Arithmetic Operations](#arithmetic-operations)
+    + [Compute the Average](#compute-the-average)
+    + [Functions and Fractals - Recursive Trees - Bash!](#functions-and-fractals---recursive-trees---bash-)
+    + [Cut #1](#cut--1)
+    + [Cut #2](#cut--2)
+    + [Cut #3](#cut--3)
+    + [Cut #4](#cut--4)
+    + [Cut #5](#cut--5)
+    + [Cut #6](#cut--6)
+    + [Cut #7](#cut--7)
+    + [Cut #8](#cut--8)
+    + [Cut #9](#cut--9)
+    + [Head of a Text File #1](#head-of-a-text-file--1)
+    + [Head of a Text File #2](#head-of-a-text-file--2)
+    + [Middle of a Text File](#middle-of-a-text-file)
+    + [Tail of a Text File #1](#tail-of-a-text-file--1)
+    + [Tail of a Text File #2](#tail-of-a-text-file--2)
+    + ['Tr' Command #1](#-tr--command--1)
+    + ['Tr' Command #2](#-tr--command--2)
+    + ['Tr' Command #3](#-tr--command--3)
+    + [Sort Command #1](#sort-command--1)
+    + [Sort Command #2](#sort-command--2)
+    + [Sort Command #3](#sort-command--3)
+    + [Sort Command #4](#sort-command--4)
+    + [Sort Command #5](#sort-command--5)
+    + ['Sort' command #6](#-sort--command--6)
+    + ['Sort' command #7](#-sort--command--7)
+    + ['Uniq' Command #1](#-uniq--command--1)
+    + ['Uniq' Command #2](#-uniq--command--2)
+    + ['Uniq' command #3](#-uniq--command--3)
+    + ['Uniq' command #4](#-uniq--command--4)
+    + [Paste - 3](#paste---3)
+    + [Paste - 4](#paste---4)
+    + [Paste - 1](#paste---1)
+    + [Paste - 2](#paste---2)
+    + [Read in an Array](#read-in-an-array)
+    + [Slice an Array](#slice-an-array)
+    + [Filter an Array with Patterns](#filter-an-array-with-patterns)
+    + [Concatenate an array with itself](#concatenate-an-array-with-itself)
+    + [Display an element of an array](#display-an-element-of-an-array)
+    + [Count the number of elements in an Array](#count-the-number-of-elements-in-an-array)
+    + [Remove the First Capital Letter from Each Element](#remove-the-first-capital-letter-from-each-element)
+    + [Lonely Integer - Bash!](#lonely-integer---bash-)
+    + ['Awk' - 3](#-awk----3)
+    + ['Awk' - 4](#-awk----4)
+    + ['Grep' #1](#-grep---1)
+    + ['Grep' #2](#-grep---2)
+    + ['Grep' #3](#-grep---3)
+    + ['Grep' - A](#-grep----a)
+    + ['Grep' - B](#-grep----b)
+    + ['Sed' command #1](#-sed--command--1)
+    + ['Sed' command #2](#-sed--command--2)
+    + ['Sed' command #3](#-sed--command--3)
+    + ['Sed' command #4](#-sed--command--4)
+    + ['Sed' command #5](#-sed--command--5)
+    + ['Awk' - 1](#-awk----1)
+    + ['Awk' - 2](#-awk----2)
 
-## Table of Contents
-1. [Example](#lets-Echo)
-2. [Example2](#example2)
-3. [Third Example](#third-example)
-4. [Fourth Example](#fourth-example)
-5. 
+<small><i><a href='http://ecotrust-canada.github.io/markdown-toc/'>Table of contents generated with markdown-toc</a></i></small>
 
-* auto-gen TOC:
-{:toc}
 
 <br>
 
 
+---
 
-
-### Let's Echo 
+### Let's Echo<a id='Lets Echo'></a>
 EasyBash (Basic) / Max Score: 1 / Success Rate: 98.19%
-
-<details>
   
-  ---
-  
-  :uk: Link to problem / :georgia: დავალების ლინკი : https://www.hackerrank.com/challenges/bash-tutorials-lets-echo/problem
+:uk: Link to problem / :georgia: დავალების ლინკი : https://www.hackerrank.com/challenges/bash-tutorials-lets-echo/problem
 
-  :uk: Write a bash script that prints the string "HELLO".
+:uk: Write a bash script that prints the string "HELLO".
 
-  :georgia: დაწერეთ სკრიპტი, რომელიც ბეჭდავს სტრიქონს "HELLO".
+:georgia: დაწერეთ სკრიპტი, რომელიც ბეჭდავს სტრიქონს "HELLO".
 
 
 <details>
@@ -45,26 +100,17 @@ EasyBash (Basic) / Max Score: 1 / Success Rate: 98.19%
   ```
   
 </details>
-  
-  ---
-  
-</details>
-<br> <!--- ===   ===   ===   ===   ===   ===   ===   ===   ===   ===   ===   ===   ===   --->
 
-
+---
 
 ### Looping and Skipping
 EasyBash (Basic)Max Score: 2Success Rate: 96.00%
 
-<details>
-  
-  ---
-  
-  :uk: Link to problem / :georgia: დავალების ლინკი : https://www.hackerrank.com/challenges/bash-tutorials---looping-and-skipping/problem
+:uk: Link to problem / :georgia: დავალების ლინკი : https://www.hackerrank.com/challenges/bash-tutorials---looping-and-skipping/problem
 
-  :uk: Your task is to use for loops to display only odd natural numbers from 1 to 99.
+:uk: Your task is to use for loops to display only odd natural numbers from 1 to 99.
 
-  :georgia:  
+:georgia:  
 
 
 <details>
@@ -82,24 +128,16 @@ EasyBash (Basic)Max Score: 2Success Rate: 96.00%
 </details>
   
   ---
-  
-</details>
-<br> <!--- ===   ===   ===   ===   ===   ===   ===   ===   ===   ===   ===   ===   ===   --->
-
 
 
 ### A Personalized Echo
 EasyBash (Basic)Max Score: 1Success Rate: 98.41%
 
-<details>
-  
-  ---
-  
-  :uk: Link to problem / :georgia: დავალების ლინკი : https://www.hackerrank.com/challenges/bash-tutorials---a-personalized-echo/
+:uk: Link to problem / :georgia: დავალების ლინკი : https://www.hackerrank.com/challenges/bash-tutorials---a-personalized-echo/
 
-  :uk:  Write a Bash script which accepts **name** as input and displays the greeting "Welcome (name)"
+:uk:  Write a Bash script which accepts **name** as input and displays the greeting "Welcome (name)"
 
-  :georgia:  
+:georgia:  
 
 
 <details>
@@ -115,24 +153,16 @@ EasyBash (Basic)Max Score: 1Success Rate: 98.41%
 </details>
   
   ---
-  
-</details>
-<br> <!--- ===   ===   ===   ===   ===   ===   ===   ===   ===   ===   ===   ===   ===   --->
-
 
 
 ### Looping with Numbers
 EasyBash (Basic)Max Score: 2Success Rate: 99.46%
 
-<details>
-  
-  ---
-  
-  :uk: Link to problem / :georgia: დავალების ლინკი : https://www.hackerrank.com/challenges/bash-tutorials---looping-with-numbers/
+:uk: Link to problem / :georgia: დავალების ლინკი : https://www.hackerrank.com/challenges/bash-tutorials---looping-with-numbers/
 
-  :uk:  Use a for loop to display the natural numbers from 1 to 50.
+:uk:  Use a for loop to display the natural numbers from 1 to 50.
 
-  :georgia:  
+:georgia:  
 
 
 <details>
@@ -150,24 +180,16 @@ EasyBash (Basic)Max Score: 2Success Rate: 99.46%
 </details>
   
   ---
-  
-</details>
-<br> <!--- ===   ===   ===   ===   ===   ===   ===   ===   ===   ===   ===   ===   ===   --->
-
 
 
 ### The World of Numbers
 EasyBash (Basic)Max Score: 2Success Rate: 97.38%
 
-<details>
-  
-  ---
-  
-  :uk: Link to problem / :georgia: დავალების ლინკი : https://www.hackerrank.com/challenges/bash-tutorials---the-world-of-numbers/
+:uk: Link to problem / :georgia: დავალების ლინკი : https://www.hackerrank.com/challenges/bash-tutorials---the-world-of-numbers/
 
-  :uk:  Given two integers, $X$ and $Y$, find their sum, difference, product, and quotient.
+:uk:  Given two integers, $X$ and $Y$, find their sum, difference, product, and quotient.
 
-  :georgia:  
+:georgia:  
 
 
 <details>
@@ -187,29 +209,21 @@ EasyBash (Basic)Max Score: 2Success Rate: 97.38%
 </details>
   
   ---
-  
-</details>
-<br> <!--- ===   ===   ===   ===   ===   ===   ===   ===   ===   ===   ===   ===   ===   --->
-
 
 
 ### Comparing Numbers
 EasyBash (Basic)Max Score: 3Success Rate: 97.75%
 
-<details>
-  
-  ---
-  
-  :uk: Link to problem / :georgia: დავალების ლინკი : https://www.hackerrank.com/challenges/bash-tutorials---comparing-numbers/
+:uk: Link to problem / :georgia: დავალების ლინკი : https://www.hackerrank.com/challenges/bash-tutorials---comparing-numbers/
 
-  :uk:  Given two integers, $X$ and $Y$, identify whether $X < Y$ or $X > Y$ or $X = Y$
+:uk:  Given two integers, $X$ and $Y$, identify whether $X < Y$ or $X > Y$ or $X = Y$
 
   Exactly one of the following lines:
   - X is less than Y
   - X is greater than Y
   - X is equal to Y 
 
-  :georgia:  
+:georgia:  
 
 
 <details>
@@ -235,27 +249,19 @@ EasyBash (Basic)Max Score: 3Success Rate: 97.75%
 </details>
   
   ---
-  
-</details>
-<br> <!--- ===   ===   ===   ===   ===   ===   ===   ===   ===   ===   ===   ===   ===   --->
-
 
 
 ### Getting started with conditionals
 EasyBash (Basic)Max Score: 3Success Rate: 97.53%
 
-<details>
-  
-  ---
-  
-  :uk: Link to problem / :georgia: დავალების ლინკი : https://www.hackerrank.com/challenges/bash-tutorials---getting-started-with-conditionals/
+:uk: Link to problem / :georgia: დავალების ლინკი : https://www.hackerrank.com/challenges/bash-tutorials---getting-started-with-conditionals/
 
-  :uk:  Read in one character from STDIN.
+:uk:  Read in one character from STDIN.
   If the character is 'Y' or 'y' display "YES".
   If the character is 'N' or 'n' display "NO".
   No other character will be provided as input. 
 
-  :georgia:  
+:georgia:  
 
 
 <details>
@@ -277,29 +283,21 @@ EasyBash (Basic)Max Score: 3Success Rate: 97.53%
 </details>
   
   ---
-  
-</details>
-<br> <!--- ===   ===   ===   ===   ===   ===   ===   ===   ===   ===   ===   ===   ===   --->
-
 
 
 ### More on Conditionals
 EasyBash (Basic)Max Score: 3Success Rate: 96.49%
 
-<details>
-  
-  ---
-  
-  :uk: Link to problem / :georgia: დავალების ლინკი : https://www.hackerrank.com/challenges/bash-tutorials---more-on-conditionals/
+:uk: Link to problem / :georgia: დავალების ლინკი : https://www.hackerrank.com/challenges/bash-tutorials---more-on-conditionals/
 
-  :uk:  Given three integers ($X$, $Y$, and $Z$) representing the three sides of a triangle, identify whether the triangle is scalene, isosceles, or equilateral.
+:uk:  Given three integers ($X$, $Y$, and $Z$) representing the three sides of a triangle, identify whether the triangle is scalene, isosceles, or equilateral.
 
     - If all three sides are equal, output EQUILATERAL.
     - Otherwise, if any two sides are equal, output ISOSCELES.
     - Otherwise, output SCALENE.
 
 
-  :georgia:  
+:georgia:  
 
 
 <details>
@@ -325,24 +323,16 @@ EasyBash (Basic)Max Score: 3Success Rate: 96.49%
 </details>
   
   ---
-  
-</details>
-<br> <!--- ===   ===   ===   ===   ===   ===   ===   ===   ===   ===   ===   ===   ===   --->
-
 
 
 ### Arithmetic Operations
 MediumBash (Basic)Max Score: 3Success Rate: 91.59%
 
-<details>
-  
-  ---
-  
-  :uk: Link to problem / :georgia: დავალების ლინკი : https://www.hackerrank.com/challenges/bash-tutorials---arithmetic-operations/
+:uk: Link to problem / :georgia: დავალების ლინკი : https://www.hackerrank.com/challenges/bash-tutorials---arithmetic-operations/
 
-  :uk:  A mathematical expression containing +,-,*,^, / and parenthesis will be provided. Read in the expression, then evaluate it. Display the result rounded to 3 decimal places. 
+:uk:  A mathematical expression containing +,-,*,^, / and parenthesis will be provided. Read in the expression, then evaluate it. Display the result rounded to 3 decimal places. 
 
-  :georgia:  
+:georgia:  
 
 
 <details>
@@ -358,24 +348,16 @@ MediumBash (Basic)Max Score: 3Success Rate: 91.59%
 </details>
   
   ---
-  
-</details>
-<br> <!--- ===   ===   ===   ===   ===   ===   ===   ===   ===   ===   ===   ===   ===   --->
-
 
 
 ### Compute the Average
 MediumBash (Basic)Max Score: 4Success Rate: 90.01%
 
-<details>
-  
-  ---
-  
-  :uk: Link to problem / :georgia: დავალების ლინკი : https://www.hackerrank.com/challenges/bash-tutorials---compute-the-average/
+:uk: Link to problem / :georgia: დავალების ლინკი : https://www.hackerrank.com/challenges/bash-tutorials---compute-the-average/
 
-  :uk:  Given $N$ integers, compute their average, rounded to three decimal places. 
+:uk:  Given $N$ integers, compute their average, rounded to three decimal places. 
 
-  :georgia:  
+:georgia:  
 
 
 <details>
@@ -392,28 +374,20 @@ MediumBash (Basic)Max Score: 4Success Rate: 90.01%
 </details>
   
   ---
-  
-</details>
-<br> <!--- ===   ===   ===   ===   ===   ===   ===   ===   ===   ===   ===   ===   ===   --->
-
 
 
 ### Functions and Fractals - Recursive Trees - Bash!
 HardMax Score: 30Success Rate: 93.20%
 
-<details>
+:uk: Link to problem / :georgia: დავალების ლინკი : https://www.hackerrank.com/challenges/fractal-trees-all/
   
-  ---
-  
-  :uk: Link to problem / :georgia: დავალების ლინკი : https://www.hackerrank.com/challenges/fractal-trees-all/
-  
-  :uk:  Creating a Fractal Tree from Y-shaped branches
+:uk:  Creating a Fractal Tree from Y-shaped branches
 
   This challenge involves the construction of trees, in the form of ASCII Art.
 
   We have to deal with real world constraints, so we cannot keep repeating the pattern infinitely. So, we will provide you a number of iterations, and you need to generate the ASCII version of the Fractal Tree for only those many iterations (or, levels of recursion). A few samples are provided below.
 
-  :georgia:  
+:georgia:  
 
 
 <details>
@@ -460,24 +434,16 @@ HardMax Score: 30Success Rate: 93.20%
 </details>
   
   ---
-  
-</details>
-<br> <!--- ===   ===   ===   ===   ===   ===   ===   ===   ===   ===   ===   ===   ===   --->
-
 
 
 ### Cut #1
 EasyBash (Basic)Max Score: 1Success Rate: 96.67%
 
-<details>
-  
-  ---
-  
-  :uk: Link to problem / :georgia: დავალების ლინკი : https://www.hackerrank.com/challenges/text-processing-cut-1/
+:uk: Link to problem / :georgia: დავალების ლინკი : https://www.hackerrank.com/challenges/text-processing-cut-1/
 
-  :uk:  Given $N$ lines of input, print the 3rd character from each line as a new line of output. It is guaranteed that each of the $n$ lines of input will have a 3rd character.
+:uk:  Given $N$ lines of input, print the 3rd character from each line as a new line of output. It is guaranteed that each of the $n$ lines of input will have a 3rd character.
 
-  :georgia:  
+:georgia:  
 
 
 <details>
@@ -492,24 +458,16 @@ EasyBash (Basic)Max Score: 1Success Rate: 96.67%
 </details>
   
   ---
-  
-</details>
-<br> <!--- ===   ===   ===   ===   ===   ===   ===   ===   ===   ===   ===   ===   ===   --->
-
 
 
 ### Cut #2
 EasyMax Score: 1Success Rate: 98.34%
 
-<details>
-  
-  ---
-  
-  :uk: Link to problem / :georgia: დავალების ლინკი : https://www.hackerrank.com/challenges/text-processing-cut-2/
+:uk: Link to problem / :georgia: დავალების ლინკი : https://www.hackerrank.com/challenges/text-processing-cut-2/
 
-  :uk:  Display the 2nd and 7th character from each line of text. 
+:uk:  Display the 2nd and 7th character from each line of text. 
 
-  :georgia:  
+:georgia:  
 
 
 <details>
@@ -524,24 +482,16 @@ EasyMax Score: 1Success Rate: 98.34%
 </details>
   
   ---
-  
-</details>
-<br> <!--- ===   ===   ===   ===   ===   ===   ===   ===   ===   ===   ===   ===   ===   --->
-
 
 
 ### Cut #3
 EasyBash (Basic)Max Score: 1Success Rate: 99.25%
 
-<details>
-  
-  ---
-  
-  :uk: Link to problem / :georgia: დავალების ლინკი : https://www.hackerrank.com/challenges/text-processing-cut-3/
+:uk: Link to problem / :georgia: დავალების ლინკი : https://www.hackerrank.com/challenges/text-processing-cut-3/
 
-  :uk:  Display a range of characters starting at the 2nd position of a string and ending at the 7th position (both positions included).
+:uk:  Display a range of characters starting at the 2nd position of a string and ending at the 7th position (both positions included).
 
-  :georgia:  
+:georgia:  
 
 
 <details>
@@ -556,24 +506,16 @@ EasyBash (Basic)Max Score: 1Success Rate: 99.25%
 </details>
   
   ---
-  
-</details>
-<br> <!--- ===   ===   ===   ===   ===   ===   ===   ===   ===   ===   ===   ===   ===   --->
-
 
 
 ### Cut #4
 EasyMax Score: 1Success Rate: 99.66%
 
-<details>
-  
-  ---
-  
-  :uk: Link to problem / :georgia: დავალების ლინკი : https://www.hackerrank.com/challenges/text-processing-cut-4/
+:uk: Link to problem / :georgia: დავალების ლინკი : https://www.hackerrank.com/challenges/text-processing-cut-4/
 
-  :uk:  Display the first four characters from each line of text. 
+:uk:  Display the first four characters from each line of text. 
 
-  :georgia:  
+:georgia:  
 
 
 <details>
@@ -588,24 +530,16 @@ EasyMax Score: 1Success Rate: 99.66%
 </details>
   
   ---
-  
-</details>
-<br> <!--- ===   ===   ===   ===   ===   ===   ===   ===   ===   ===   ===   ===   ===   --->
-
 
 
 ### Cut #5
 EasyMax Score: 1Success Rate: 98.14%
 
-<details>
-  
-  ---
-  
-  :uk: Link to problem / :georgia: დავალების ლინკი : https://www.hackerrank.com/challenges/text-processing-cut-5/
+:uk: Link to problem / :georgia: დავალების ლინკი : https://www.hackerrank.com/challenges/text-processing-cut-5/
 
-  :uk:  Given a tab delimited file with several columns (tsv format) print the first three fields.
+:uk:  Given a tab delimited file with several columns (tsv format) print the first three fields.
 
-  :georgia:  
+:georgia:  
 
 
 <details>
@@ -620,24 +554,16 @@ EasyMax Score: 1Success Rate: 98.14%
 </details>
   
   ---
-  
-</details>
-<br> <!--- ===   ===   ===   ===   ===   ===   ===   ===   ===   ===   ===   ===   ===   --->
-
 
 
 ### Cut #6
 EasyMax Score: 1Success Rate: 99.51%
 
-<details>
-  
-  ---
-  
-  :uk: Link to problem / :georgia: დავალების ლინკი : https://www.hackerrank.com/challenges/text-processing-cut-6/
+:uk: Link to problem / :georgia: დავალების ლინკი : https://www.hackerrank.com/challenges/text-processing-cut-6/
 
-  :uk:  Print the characters from thirteenth position to the end.
+:uk:  Print the characters from thirteenth position to the end.
 
-  :georgia:  
+:georgia:  
 
 
 <details>
@@ -652,24 +578,16 @@ EasyMax Score: 1Success Rate: 99.51%
 </details>
   
   ---
-  
-</details>
-<br> <!--- ===   ===   ===   ===   ===   ===   ===   ===   ===   ===   ===   ===   ===   --->
-
 
 
 ### Cut #7
 EasyMax Score: 1Success Rate: 98.45%
 
-<details>
-  
-  ---
-  
-  :uk: Link to problem / :georgia: დავალების ლინკი : https://www.hackerrank.com/challenges/text-processing-cut-7/
+:uk: Link to problem / :georgia: დავალების ლინკი : https://www.hackerrank.com/challenges/text-processing-cut-7/
 
-  :uk:  Given a sentence, identify and display its fourth word. Assume that the space (' ') is the only delimiter between words.
+:uk:  Given a sentence, identify and display its fourth word. Assume that the space (' ') is the only delimiter between words.
 
-  :georgia:  
+:georgia:  
 
 
 <details>
@@ -684,24 +602,16 @@ EasyMax Score: 1Success Rate: 98.45%
 </details>
   
   ---
-  
-</details>
-<br> <!--- ===   ===   ===   ===   ===   ===   ===   ===   ===   ===   ===   ===   ===   --->
-
 
 
 ### Cut #8
 EasyMax Score: 1Success Rate: 99.77%
 
-<details>
-  
-  ---
-  
-  :uk: Link to problem / :georgia: დავალების ლინკი : https://www.hackerrank.com/challenges/text-processing-cut-8/
+:uk: Link to problem / :georgia: დავალების ლინკი : https://www.hackerrank.com/challenges/text-processing-cut-8/
 
-  :uk:  Given a sentence, identify and display its first three words. Assume that the space (' ') is the only delimiter between words. 
+:uk:  Given a sentence, identify and display its first three words. Assume that the space (' ') is the only delimiter between words. 
 
-  :georgia:  
+:georgia:  
 
 
 <details>
@@ -716,24 +626,16 @@ EasyMax Score: 1Success Rate: 99.77%
 </details>
   
   ---
-  
-</details>
-<br> <!--- ===   ===   ===   ===   ===   ===   ===   ===   ===   ===   ===   ===   ===   --->
-
 
 
 ### Cut #9
 EasyMax Score: 1Success Rate: 99.10%
 
-<details>
-  
-  ---
-  
-  :uk: Link to problem / :georgia: დავალების ლინკი : https://www.hackerrank.com/challenges/text-processing-cut-9/
+:uk: Link to problem / :georgia: დავალების ლინკი : https://www.hackerrank.com/challenges/text-processing-cut-9/
 
-  :uk:  Given a tab delimited file with several columns (tsv format) print the fields from second fields to last field.
+:uk:  Given a tab delimited file with several columns (tsv format) print the fields from second fields to last field.
 
-  :georgia:  
+:georgia:  
 
 
 <details>
@@ -748,26 +650,18 @@ EasyMax Score: 1Success Rate: 99.10%
 </details>
   
   ---
-  
-</details>
-<br> <!--- ===   ===   ===   ===   ===   ===   ===   ===   ===   ===   ===   ===   ===   --->
-
 
 
 ### Head of a Text File #1
 EasyMax Score: 2Success Rate: 99.53%
 
-<details>
-  
-  ---
-  
-  :uk: Link to problem / :georgia: დავალების ლინკი : https://www.hackerrank.com/challenges/text-processing-head-1/
+:uk: Link to problem / :georgia: დავალების ლინკი : https://www.hackerrank.com/challenges/text-processing-head-1/
 
-  :uk:  In this challenge, we practice using the head command to display the first $n$ lines of a text file.
+:uk:  In this challenge, we practice using the head command to display the first $n$ lines of a text file.
 
   Display the first 20 lines of an input file.
 
-  :georgia:  
+:georgia:  
 
 
 <details>
@@ -782,26 +676,18 @@ EasyMax Score: 2Success Rate: 99.53%
 </details>
   
   ---
-  
-</details>
-<br> <!--- ===   ===   ===   ===   ===   ===   ===   ===   ===   ===   ===   ===   ===   --->
-
 
 
 ### Head of a Text File #2
 EasyMax Score: 2Success Rate: 98.67%
 
-<details>
+:uk: Link to problem / :georgia: დავალების ლინკი : https://www.hackerrank.com/challenges/text-processing-head-2/
   
-  ---
-  
-  :uk: Link to problem / :georgia: დავალების ლინკი : https://www.hackerrank.com/challenges/text-processing-head-2/
-  
-  :uk:  In this challenge, we practice using the head command to display the first $n$ characters of a text file.
+:uk:  In this challenge, we practice using the head command to display the first $n$ characters of a text file.
 
   Display the first 20 characters of an input file.
 
-  :georgia:  
+:georgia:  
 
 
 <details>
@@ -816,24 +702,16 @@ EasyMax Score: 2Success Rate: 98.67%
 </details>
   
   ---
-  
-</details>
-<br> <!--- ===   ===   ===   ===   ===   ===   ===   ===   ===   ===   ===   ===   ===   --->
-
 
 
 ### Middle of a Text File
 EasyMax Score: 3Success Rate: 99.04%
 
-<details>
-  
-  ---
-  
-  :uk: Link to problem / :georgia: დავალების ლინკი : https://www.hackerrank.com/challenges/text-processing-in-linux---the-middle-of-a-text-file/
+:uk: Link to problem / :georgia: დავალების ლინკი : https://www.hackerrank.com/challenges/text-processing-in-linux---the-middle-of-a-text-file/
 
-  :uk:  Display the lines (from line number 12 to 22, both inclusive) of a given text file.
+:uk:  Display the lines (from line number 12 to 22, both inclusive) of a given text file.
 
-  :georgia:  
+:georgia:  
 
 
 <details>
@@ -848,26 +726,18 @@ EasyMax Score: 3Success Rate: 99.04%
 </details>
   
   ---
-  
-</details>
-<br> <!--- ===   ===   ===   ===   ===   ===   ===   ===   ===   ===   ===   ===   ===   --->
-
 
 
 ### Tail of a Text File #1
 EasyMax Score: 2Success Rate: 99.86%
 
-<details>
-  
-  ---
-  
-  :uk: Link to problem / :georgia: დავალების ლინკი : https://www.hackerrank.com/challenges/text-processing-tail-1/
+:uk: Link to problem / :georgia: დავალების ლინკი : https://www.hackerrank.com/challenges/text-processing-tail-1/
 
-  :uk:  In this challenge, we practice using the tail command to display the last $n$ lines of a text file.
+:uk:  In this challenge, we practice using the tail command to display the last $n$ lines of a text file.
 
   Display the last 20 lines of an input file.
 
-  :georgia:  
+:georgia:  
 
 
 <details>
@@ -882,26 +752,18 @@ EasyMax Score: 2Success Rate: 99.86%
 </details>
   
   ---
-  
-</details>
-<br> <!--- ===   ===   ===   ===   ===   ===   ===   ===   ===   ===   ===   ===   ===   --->
-
 
 
 ### Tail of a Text File #2
 EasyMax Score: 2Success Rate: 99.61%
 
-<details>
-  
-  ---
-  
-  :uk: Link to problem / :georgia: დავალების ლინკი : https://www.hackerrank.com/challenges/text-processing-tail-2/
+:uk: Link to problem / :georgia: დავალების ლინკი : https://www.hackerrank.com/challenges/text-processing-tail-2/
 
-  :uk:  In this challenge, we practice using the tail command to display the last $n$ characters of a text file.
+:uk:  In this challenge, we practice using the tail command to display the last $n$ characters of a text file.
 
   Display the last 20 characters of an input file.
 
-  :georgia:  
+:georgia:  
 
 
 <details>
@@ -916,26 +778,18 @@ EasyMax Score: 2Success Rate: 99.61%
 </details>
   
   ---
-  
-</details>
-<br> <!--- ===   ===   ===   ===   ===   ===   ===   ===   ===   ===   ===   ===   ===   --->
-
 
 
 ### 'Tr' Command #1
 EasyMax Score: 1Success Rate: 98.99%
 
-<details>
-  
-  ---
-  
-  :uk: Link to problem / :georgia: დავალების ლინკი : https://www.hackerrank.com/challenges/text-processing-tr-1/
+:uk: Link to problem / :georgia: დავალების ლინკი : https://www.hackerrank.com/challenges/text-processing-tr-1/
 
-  :uk:  In this challenge, we practice using the tr command because it is a useful translation tool in Linux.
+:uk:  In this challenge, we practice using the tr command because it is a useful translation tool in Linux.
 
   In a given fragment of text, replace all parentheses () with box brackets [].
 
-  :georgia:  
+:georgia:  
 
 
 <details>
@@ -950,26 +804,18 @@ EasyMax Score: 1Success Rate: 98.99%
 </details>
   
   ---
-  
-</details>
-<br> <!--- ===   ===   ===   ===   ===   ===   ===   ===   ===   ===   ===   ===   ===   --->
-
 
 
 ### 'Tr' Command #2
 EasyMax Score: 1Success Rate: 99.24%
 
-<details>
-  
-  ---
-  
-  :uk: Link to problem / :georgia: დავალების ლინკი : https://www.hackerrank.com/challenges/text-processing-tr-2/
+:uk: Link to problem / :georgia: დავალების ლინკი : https://www.hackerrank.com/challenges/text-processing-tr-2/
 
-  :uk:  In this challenge, we practice using the tr command because it is a useful translation tool in Linux.
+:uk:  In this challenge, we practice using the tr command because it is a useful translation tool in Linux.
 
   In a given fragment of text, delete all the lowercase characters $a -z$.
 
-  :georgia:  
+:georgia:  
 
 
 <details>
@@ -984,24 +830,16 @@ EasyMax Score: 1Success Rate: 99.24%
 </details>
   
   ---
-  
-</details>
-<br> <!--- ===   ===   ===   ===   ===   ===   ===   ===   ===   ===   ===   ===   ===   --->
-
 
 
 ### 'Tr' Command #3
 EasyMax Score: 1Success Rate: 99.26%
 
-<details>
-  
-  ---
-  
-  :uk: Link to problem / :georgia: დავალების ლინკი : https://www.hackerrank.com/challenges/text-processing-tr-3/
+:uk: Link to problem / :georgia: დავალების ლინკი : https://www.hackerrank.com/challenges/text-processing-tr-3/
 
-  :uk:  In a given fragment of text, replace all sequences of multiple spaces with just one space.
+:uk:  In a given fragment of text, replace all sequences of multiple spaces with just one space.
 
-  :georgia:  
+:georgia:  
 
 
 <details>
@@ -1016,26 +854,18 @@ EasyMax Score: 1Success Rate: 99.26%
 </details>
   
   ---
-  
-</details>
-<br> <!--- ===   ===   ===   ===   ===   ===   ===   ===   ===   ===   ===   ===   ===   --->
-
 
 
 ### Sort Command #1
 EasyMax Score: 1Success Rate: 99.79%
 
-<details>
-  
-  ---
-  
-  :uk: Link to problem / :georgia: დავალების ლინკი : https://www.hackerrank.com/challenges/text-processing-sort-1/
+:uk: Link to problem / :georgia: დავალების ლინკი : https://www.hackerrank.com/challenges/text-processing-sort-1/
 
-  :uk:  In this challenge, we practice using the sort command to sort input in text or TSV formats.
+:uk:  In this challenge, we practice using the sort command to sort input in text or TSV formats.
 
   Given a text file, order the lines in lexicographical order.
 
-  :georgia:  
+:georgia:  
 
 
 <details>
@@ -1050,26 +880,18 @@ EasyMax Score: 1Success Rate: 99.79%
 </details>
   
   ---
-  
-</details>
-<br> <!--- ===   ===   ===   ===   ===   ===   ===   ===   ===   ===   ===   ===   ===   --->
-
 
 
 ### Sort Command #2
 EasyMax Score: 1Success Rate: 99.89%
 
-<details>
-  
-  ---
-  
-  :uk: Link to problem / :georgia: დავალების ლინკი : https://www.hackerrank.com/challenges/text-processing-sort-2/
+:uk: Link to problem / :georgia: დავალების ლინკი : https://www.hackerrank.com/challenges/text-processing-sort-2/
 
-  :uk:  In this challenge, we practice using the sort command to sort input in text or TSV formats.
+:uk:  In this challenge, we practice using the sort command to sort input in text or TSV formats.
 
   Given a text file, order the lines in reverse lexicographical order (i.e. Z-A instead of A-Z).
 
-  :georgia:  
+:georgia:  
 
 
 <details>
@@ -1084,26 +906,18 @@ EasyMax Score: 1Success Rate: 99.89%
 </details>
   
   ---
-  
-</details>
-<br> <!--- ===   ===   ===   ===   ===   ===   ===   ===   ===   ===   ===   ===   ===   --->
-
 
 
 ### Sort Command #3
 EasyMax Score: 1Success Rate: 99.92%
 
-<details>
-  
-  ---
-  
-  :uk: Link to problem / :georgia: დავალების ლინკი : https://www.hackerrank.com/challenges/text-processing-sort-3/
+:uk: Link to problem / :georgia: დავალების ლინკი : https://www.hackerrank.com/challenges/text-processing-sort-3/
 
-  :uk:  In this challenge, we practice using the sort command to sort input in text or TSV formats.
+:uk:  In this challenge, we practice using the sort command to sort input in text or TSV formats.
 
   You are given a text file where each line contains a number. The numbers may be either an integer or have decimal places. There will be no extra characters other than the number or the newline at the end of each line. Sort the lines in ascending order - so that the first line holds the numerically smallest number, and the last line holds the numerically largest number.
 
-  :georgia:  
+:georgia:  
 
 
 <details>
@@ -1118,24 +932,16 @@ EasyMax Score: 1Success Rate: 99.92%
 </details>
   
   ---
-  
-</details>
-<br> <!--- ===   ===   ===   ===   ===   ===   ===   ===   ===   ===   ===   ===   ===   --->
-
 
 
 ### Sort Command #4
 EasyMax Score: 1Success Rate: 99.89%
 
-<details>
-  
-  ---
-  
-  :uk: Link to problem / :georgia: დავალების ლინკი : https://www.hackerrank.com/challenges/text-processing-sort-4/
+:uk: Link to problem / :georgia: დავალების ლინკი : https://www.hackerrank.com/challenges/text-processing-sort-4/
 
-  :uk:  You are given a file of text, where each line contains a number (which may be either an integer or have decimal places). There will be no extra characters other than the number or the newline at the end of each line. Sort the lines in **descending** order - - such that the first line holds the (numerically) largest number and the last line holds the (numerically) smallest number.
+:uk:  You are given a file of text, where each line contains a number (which may be either an integer or have decimal places). There will be no extra characters other than the number or the newline at the end of each line. Sort the lines in **descending** order - - such that the first line holds the (numerically) largest number and the last line holds the (numerically) smallest number.
 
-  :georgia:  
+:georgia:  
 
 
 <details>
@@ -1150,24 +956,16 @@ EasyMax Score: 1Success Rate: 99.89%
 </details>
   
   ---
-  
-</details>
-<br> <!--- ===   ===   ===   ===   ===   ===   ===   ===   ===   ===   ===   ===   ===   --->
-
 
 
 ### Sort Command #5
 EasyMax Score: 1Success Rate: 96.74%
 
-<details>
-  
-  ---
-  
-  :uk: Link to problem / :georgia: დავალების ლინკი : https://www.hackerrank.com/challenges/text-processing-sort-5/
+:uk: Link to problem / :georgia: დავალების ლინკი : https://www.hackerrank.com/challenges/text-processing-sort-5/
 
-  :uk:  You are given a file of text,which contains temperature information about American cities, in TSV (tab-separated) format. The first column is the name of the city and the next four columns are the average temperature in the months of Jan, Feb, March and April (see the sample input). Rearrange the rows of the table in **descending order** of the values for the average temperature in January. 
+:uk:  You are given a file of text,which contains temperature information about American cities, in TSV (tab-separated) format. The first column is the name of the city and the next four columns are the average temperature in the months of Jan, Feb, March and April (see the sample input). Rearrange the rows of the table in **descending order** of the values for the average temperature in January. 
 
-  :georgia:  
+:georgia:  
 
 
 <details>
@@ -1182,27 +980,19 @@ EasyMax Score: 1Success Rate: 96.74%
 </details>
   
   ---
-  
-</details>
-<br> <!--- ===   ===   ===   ===   ===   ===   ===   ===   ===   ===   ===   ===   ===   --->
-
 
 
 ### 'Sort' command #6
 EasyMax Score: 1Success Rate: 99.14%
 
-<details>
-  
-  ---
-  
-  :uk: Link to problem / :georgia: დავალების ლინკი : https://www.hackerrank.com/challenges/text-processing-sort-6/
+:uk: Link to problem / :georgia: დავალების ლინკი : https://www.hackerrank.com/challenges/text-processing-sort-6/
 
-  :uk:  You are given a file of tab separated weather data (TSV). There is no header column in this data file.
+:uk:  You are given a file of tab separated weather data (TSV). There is no header column in this data file.
 The first five columns of this data are: (a) the name of the city (b) the average monthly temperature in Jan (in Fahreneit). (c) the average monthly temperature in April (in Fahreneit). (d) the average monthly temperature in July (in Fahreneit). (e) the average monthly temperature in October (in Fahreneit).
 
   You need to sort this file in ascending order of the second column (i.e. the average monthly temperature in January). 
 
-  :georgia:  
+:georgia:  
 
 
 <details>
@@ -1217,26 +1007,18 @@ The first five columns of this data are: (a) the name of the city (b) the averag
 </details>
   
   ---
-  
-</details>
-<br> <!--- ===   ===   ===   ===   ===   ===   ===   ===   ===   ===   ===   ===   ===   --->
-
 
 
 ### 'Sort' command #7
 EasyMax Score: 1Success Rate: 99.38%
 
-<details>
-  
-  ---
-  
-  :uk: Link to problem / :georgia: დავალების ლინკი : https://www.hackerrank.com/challenges/text-processing-sort-7/
+:uk: Link to problem / :georgia: დავალების ლინკი : https://www.hackerrank.com/challenges/text-processing-sort-7/
 
-  :uk:  You are given a file of **pipe-delimited** weather data (TSV). There is no header column in this data file. The first five columns of this data are: (a) the name of the city (b) the average monthly temperature in Jan (in Fahreneit). (c) the average monthly temperature in April (in Fahreneit). (d) the average monthly temperature in July (in Fahreneit). (e) the average monthly temperature in October (in Fahreneit).
+:uk:  You are given a file of **pipe-delimited** weather data (TSV). There is no header column in this data file. The first five columns of this data are: (a) the name of the city (b) the average monthly temperature in Jan (in Fahreneit). (c) the average monthly temperature in April (in Fahreneit). (d) the average monthly temperature in July (in Fahreneit). (e) the average monthly temperature in October (in Fahreneit).
 
   You need to sort this file in **descending order** of the second column (i.e. the average monthly temperature in January). 
 
-  :georgia:  
+:georgia:  
 
 
 <details>
@@ -1251,26 +1033,18 @@ EasyMax Score: 1Success Rate: 99.38%
 </details>
   
   ---
-  
-</details>
-<br> <!--- ===   ===   ===   ===   ===   ===   ===   ===   ===   ===   ===   ===   ===   --->
-
 
 
 ### 'Uniq' Command #1
 EasyMax Score: 1Success Rate: 99.09%
 
-<details>
-  
-  ---
-  
-  :uk: Link to problem / :georgia: დავალების ლინკი : https://www.hackerrank.com/challenges/text-processing-in-linux-the-uniq-command-1/
+:uk: Link to problem / :georgia: დავალების ლინკი : https://www.hackerrank.com/challenges/text-processing-in-linux-the-uniq-command-1/
 
-  :uk:  In this challenge, we practice using the uniq command to eliminate consecutive repetitions of a line when a text file is piped through it.
+:uk:  In this challenge, we practice using the uniq command to eliminate consecutive repetitions of a line when a text file is piped through it.
 
   Given a text file, remove the consecutive repetitions of any line.
 
-  :georgia:  
+:georgia:  
 
 
 <details>
@@ -1285,26 +1059,18 @@ EasyMax Score: 1Success Rate: 99.09%
 </details>
   
   ---
-  
-</details>
-<br> <!--- ===   ===   ===   ===   ===   ===   ===   ===   ===   ===   ===   ===   ===   --->
-
 
 
 ### 'Uniq' Command #2
 EasyMax Score: 1Success Rate: 95.86%
 
-<details>
-  
-  ---
-  
-  :uk: Link to problem / :georgia: დავალების ლინკი : https://www.hackerrank.com/challenges/text-processing-in-linux-the-uniq-command-2/
+:uk: Link to problem / :georgia: დავალების ლინკი : https://www.hackerrank.com/challenges/text-processing-in-linux-the-uniq-command-2/
 
-  :uk:  In this challenge, we practice using the uniq command to eliminate consecutive repetitions of a line when a text file is piped through it.
+:uk:  In this challenge, we practice using the uniq command to eliminate consecutive repetitions of a line when a text file is piped through it.
 
-  Given a text file, count the number of times each line repeats itself. Only consider consecutive repetitions. Display the space separated count and line, respectively. There shouldn't be any leading or trailing spaces. Please note that the uniq -c command by itself will generate the output in a different format than the one expected here. 
+Given a text file, count the number of times each line repeats itself. Only consider consecutive repetitions. Display the space separated count and line, respectively. There shouldn't be any leading or trailing spaces. Please note that the uniq -c command by itself will generate the output in a different format than the one expected here. 
 
-  :georgia:  
+:georgia:  
 
 
 <details>
@@ -1319,28 +1085,20 @@ EasyMax Score: 1Success Rate: 95.86%
 </details>
   
   ---
-  
-</details>
-<br> <!--- ===   ===   ===   ===   ===   ===   ===   ===   ===   ===   ===   ===   ===   --->
-
 
 
 ### 'Uniq' command #3
 EasyMax Score: 1Success Rate: 98.45%
 
-<details>
-  
-  ---
-  
-  :uk: Link to problem / :georgia: დავალების ლინკი : https://www.hackerrank.com/challenges/text-processing-in-linux-the-uniq-command-3/
+:uk: Link to problem / :georgia: დავალების ლინკი : https://www.hackerrank.com/challenges/text-processing-in-linux-the-uniq-command-3/
 
-  :uk:  Given a text file, count the number of times each line repeats itself (only consider consecutive repetions). Display the count and the line, separated by a space. There shouldn't be leading or trailing spaces. Please note that the uniq -c command by itself will generate the output in a different format.
+:uk:  Given a text file, count the number of times each line repeats itself (only consider consecutive repetions). Display the count and the line, separated by a space. There shouldn't be leading or trailing spaces. Please note that the uniq -c command by itself will generate the output in a different format.
 
-  This time, compare consecutive lines in a **case insensitive** manner. So, if a line X is followed by case variants, the output should count all of them as the same (but display only the form **X** in the second column).
+This time, compare consecutive lines in a **case insensitive** manner. So, if a line X is followed by case variants, the output should count all of them as the same (but display only the form **X** in the second column).
 
-  So, as you might observe in the case below: aa, AA and Aa are all counted as instances of 'aa'. 
+So, as you might observe in the case below: aa, AA and Aa are all counted as instances of 'aa'. 
 
-  :georgia:  
+:georgia:  
 
 
 <details>
@@ -1355,24 +1113,16 @@ EasyMax Score: 1Success Rate: 98.45%
 </details>
   
   ---
-  
-</details>
-<br> <!--- ===   ===   ===   ===   ===   ===   ===   ===   ===   ===   ===   ===   ===   --->
-
 
 
 ### 'Uniq' command #4
 EasyMax Score: 1Success Rate: 99.75%
 
-<details>
-  
-  ---
-  
-  :uk: Link to problem / :georgia: დავალების ლინკი : https://www.hackerrank.com/challenges/text-processing-in-linux-the-uniq-command-4/
+:uk: Link to problem / :georgia: დავალების ლინკი : https://www.hackerrank.com/challenges/text-processing-in-linux-the-uniq-command-4/
 
-  :uk:  Given a text file, display only those lines which are **not** followed or preceded by identical replications. 
+:uk:  Given a text file, display only those lines which are **not** followed or preceded by identical replications. 
 
-  :georgia:  
+:georgia:  
 
 
 <details>
@@ -1387,24 +1137,16 @@ EasyMax Score: 1Success Rate: 99.75%
 </details>
   
   ---
-  
-</details>
-<br> <!--- ===   ===   ===   ===   ===   ===   ===   ===   ===   ===   ===   ===   ===   --->
-
 
 
 ### Paste - 3
 MediumMax Score: 2Success Rate: 99.53%
 
-<details>
-  
-  ---
-  
-  :uk: Link to problem / :georgia: დავალების ლინკი : https://www.hackerrank.com/challenges/paste-3/
+:uk: Link to problem / :georgia: დავალების ლინკი : https://www.hackerrank.com/challenges/paste-3/
 
-  :uk:  Given a CSV file where each row contains the name of a city and its state separated by a comma, your task is to replace the newlines in the file with tabs as demonstrated in the sample. 
+:uk:  Given a CSV file where each row contains the name of a city and its state separated by a comma, your task is to replace the newlines in the file with tabs as demonstrated in the sample. 
 
-  :georgia:  
+:georgia:  
 
 
 <details>
@@ -1419,24 +1161,16 @@ MediumMax Score: 2Success Rate: 99.53%
 </details>
   
   ---
-  
-</details>
-<br> <!--- ===   ===   ===   ===   ===   ===   ===   ===   ===   ===   ===   ===   ===   --->
-
 
 
 ### Paste - 4
 MediumMax Score: 2Success Rate: 99.66%
 
-<details>
-  
-  ---
-  
-  :uk: Link to problem / :georgia: დავალების ლინკი : https://www.hackerrank.com/challenges/paste-4/
+:uk: Link to problem / :georgia: დავალების ლინკი : https://www.hackerrank.com/challenges/paste-4/
 
-  :uk:  Given a CSV file where each row contains the name of a city and its state separated by a comma, your task is to restructure the file in such a way, that three consecutive rows are folded into one, and separated by tab. 
+:uk:  Given a CSV file where each row contains the name of a city and its state separated by a comma, your task is to restructure the file in such a way, that three consecutive rows are folded into one, and separated by tab. 
 
-  :georgia:  
+:georgia:  
 
 
 <details>
@@ -1451,26 +1185,18 @@ MediumMax Score: 2Success Rate: 99.66%
 </details>
   
   ---
-  
-</details>
-<br> <!--- ===   ===   ===   ===   ===   ===   ===   ===   ===   ===   ===   ===   ===   --->
-
 
 
 ### Paste - 1
 MediumMax Score: 2Success Rate: 99.42%
 
-<details>
-  
-  ---
-  
-  :uk: Link to problem / :georgia: დავალების ლინკი : https://www.hackerrank.com/challenges/paste-1/
+:uk: Link to problem / :georgia: დავალების ლინკი : https://www.hackerrank.com/challenges/paste-1/
 
-  :uk:  In this challenge, we practice using the paste command to merge lines of a given file.
+:uk:  In this challenge, we practice using the paste command to merge lines of a given file.
 
-  You are given a CSV file where each row contains the name of a city and its state separated by a comma. Your task is to replace the newlines in the file with semicolons as demonstrated in the sample. 
+You are given a CSV file where each row contains the name of a city and its state separated by a comma. Your task is to replace the newlines in the file with semicolons as demonstrated in the sample. 
 
-  :georgia:  
+:georgia:  
 
 
 <details>
@@ -1485,26 +1211,18 @@ MediumMax Score: 2Success Rate: 99.42%
 </details>
   
   ---
-  
-</details>
-<br> <!--- ===   ===   ===   ===   ===   ===   ===   ===   ===   ===   ===   ===   ===   --->
-
 
 
 ### Paste - 2
 MediumMax Score: 2Success Rate: 99.59%
 
-<details>
-  
-  ---
-  
-  :uk: Link to problem / :georgia: დავალების ლინკი : https://www.hackerrank.com/challenges/paste-2/
+:uk: Link to problem / :georgia: დავალების ლინკი : https://www.hackerrank.com/challenges/paste-2/
 
-  :uk:  In this challenge, we practice using the paste command to merge lines of a given file.
+:uk:  In this challenge, we practice using the paste command to merge lines of a given file.
 
-  You are given a CSV file where each row contains the name of a city and its state separated by a comma. Your task is to restructure the file so that three consecutive rows are folded into one line and are separated by semicolons. 
+You are given a CSV file where each row contains the name of a city and its state separated by a comma. Your task is to restructure the file so that three consecutive rows are folded into one line and are separated by semicolons. 
 
-  :georgia:  
+:georgia:  
 
 
 <details>
@@ -1519,24 +1237,16 @@ MediumMax Score: 2Success Rate: 99.59%
 </details>
   
   ---
-  
-</details>
-<br> <!--- ===   ===   ===   ===   ===   ===   ===   ===   ===   ===   ===   ===   ===   --->
-
 
 
 ### Read in an Array
 EasyMax Score: 1Success Rate: 97.87%
 
-<details>
-  
-  ---
-  
-  :uk: Link to problem / :georgia: დავალების ლინკი : https://www.hackerrank.com/challenges/bash-tutorials-read-in-an-array/
+:uk: Link to problem / :georgia: დავალების ლინკი : https://www.hackerrank.com/challenges/bash-tutorials-read-in-an-array/
 
-  :uk:  Given a list of countries, each on a new line, your task is to read them into an array and then display the entire array, with a space between each of the countries' names. 
+:uk:  Given a list of countries, each on a new line, your task is to read them into an array and then display the entire array, with a space between each of the countries' names. 
 
-  :georgia:  
+:georgia:  
 
 
 <details>
@@ -1551,24 +1261,16 @@ EasyMax Score: 1Success Rate: 97.87%
 </details>
   
   ---
-  
-</details>
-<br> <!--- ===   ===   ===   ===   ===   ===   ===   ===   ===   ===   ===   ===   ===   --->
-
 
 
 ### Slice an Array
 EasyMax Score: 1Success Rate: 99.20%
 
-<details>
-  
-  ---
-  
-  :uk: Link to problem / :georgia: დავალების ლინკი : https://www.hackerrank.com/challenges/bash-tutorials-slice-an-array/
+:uk: Link to problem / :georgia: დავალების ლინკი : https://www.hackerrank.com/challenges/bash-tutorials-slice-an-array/
 
-  :uk:  Given a list of countries, each on a new line, your task is to read them into an array. Then slice the array and display only the elements lying between positions 3 and 7, both inclusive. Indexing starts from from 0.
+:uk:  Given a list of countries, each on a new line, your task is to read them into an array. Then slice the array and display only the elements lying between positions 3 and 7, both inclusive. Indexing starts from from 0.
 
-  :georgia:  
+:georgia:  
 
 
 <details>
@@ -1583,25 +1285,16 @@ EasyMax Score: 1Success Rate: 99.20%
 </details>
   
   ---
-  
-</details>
-<br> <!--- ===   ===   ===   ===   ===   ===   ===   ===   ===   ===   ===   ===   ===   --->
-
 
 
 ### Filter an Array with Patterns
 MediumMax Score: 1Success Rate: 97.73%
 
-<details>
-  
-  ---
-  
-  :uk: Link to problem / :georgia: დავალების ლინკი : https://www.hackerrank.com/challenges/bash-tutorials-filter-an-array-with-patterns/
+:uk: Link to problem / :georgia: დავალების ლინკი : https://www.hackerrank.com/challenges/bash-tutorials-filter-an-array-with-patterns/
 
-  :uk:  You are given a list of countries, each on a new line. Your task is to read them into an array and then filter out (remove) all the names containing the letter 'a' or 'A'. 
+:uk:  You are given a list of countries, each on a new line. Your task is to read them into an array and then filter out (remove) all the names containing the letter 'a' or 'A'. 
 
-  :georgia:  
-
+:georgia:  
 
 <details>
   <summary>Solution - ამოხსნა</summary>
@@ -1616,25 +1309,17 @@ MediumMax Score: 1Success Rate: 97.73%
 </details>
   
   ---
-  
-</details>
-<br> <!--- ===   ===   ===   ===   ===   ===   ===   ===   ===   ===   ===   ===   ===   --->
-
 
 
 ### Concatenate an array with itself
 EasyMax Score: 1Success Rate: 98.28%
 
-<details>
+:uk: Link to problem / :georgia: დავალების ლინკი : https://www.hackerrank.com/challenges/bash-tutorials-concatenate-an-array-with-itself/
+
+:uk:  Given a list of countries, each on a new line, your task is to read them into an array. Then, concatenate the array with itself (twice) - so that you have a total of three repetitions of the original array - and then display the entire concatenated array, with a space between each of the countries' names.
+
+:georgia:  
   
-  ---
-  
-  :uk: Link to problem / :georgia: დავალების ლინკი : https://www.hackerrank.com/challenges/bash-tutorials-concatenate-an-array-with-itself/
-
-  :uk:  Given a list of countries, each on a new line, your task is to read them into an array. Then, concatenate the array with itself (twice) - so that you have a total of three repetitions of the original array - and then display the entire concatenated array, with a space between each of the countries' names.
-
-  :georgia:  
-
 
 <details>
   <summary>Solution - ამოხსნა</summary>
@@ -1649,24 +1334,16 @@ EasyMax Score: 1Success Rate: 98.28%
 </details>
   
   ---
-  
-</details>
-<br> <!--- ===   ===   ===   ===   ===   ===   ===   ===   ===   ===   ===   ===   ===   --->
-
 
 
 ### Display an element of an array
 EasyMax Score: 1Success Rate: 99.49%
 
-<details>
-  
-  ---
-  
-  :uk: Link to problem / :georgia: დავალების ლინკი : https://www.hackerrank.com/challenges/bash-tutorials-display-the-third-element-of-an-array/
+:uk: Link to problem / :georgia: დავალების ლინკი : https://www.hackerrank.com/challenges/bash-tutorials-display-the-third-element-of-an-array/
 
-  :uk:  Given a list of countries, each on a new line, your task is to read them into an array and then display the element indexed at 3. Note that indexing starts from 3.
+:uk:  Given a list of countries, each on a new line, your task is to read them into an array and then display the element indexed at 3. Note that indexing starts from 3.
 
-  :georgia:  
+:georgia:  
 
 
 <details>
@@ -1681,24 +1358,16 @@ EasyMax Score: 1Success Rate: 99.49%
 </details>
   
   ---
-  
-</details>
-<br> <!--- ===   ===   ===   ===   ===   ===   ===   ===   ===   ===   ===   ===   ===   --->
-
 
 
 ### Count the number of elements in an Array
 EasyMax Score: 1Success Rate: 99.34%
 
-<details>
+:uk: Link to problem / :georgia: დავალების ლინკი : https://www.hackerrank.com/challenges/bash-tutorials-count-the-number-of-elements-in-an-array/
   
-  ---
-  
-  :uk: Link to problem / :georgia: დავალების ლინკი : https://www.hackerrank.com/challenges/bash-tutorials-count-the-number-of-elements-in-an-array/
-  
-  :uk:  Given a list of countries, each on a new line, your task is to read them into an array and then display the count of elements in that array.
+:uk:  Given a list of countries, each on a new line, your task is to read them into an array and then display the count of elements in that array.
 
-  :georgia:  
+:georgia:  
 
 
 <details>
@@ -1714,26 +1383,18 @@ EasyMax Score: 1Success Rate: 99.34%
 </details>
   
   ---
-  
-</details>
-<br> <!--- ===   ===   ===   ===   ===   ===   ===   ===   ===   ===   ===   ===   ===   --->
-
 
 
 ### Remove the First Capital Letter from Each Element
 MediumMax Score: 1Success Rate: 98.69%
 
-<details>
+:uk: Link to problem / :georgia: დავალების ლინკი : https://www.hackerrank.com/challenges/bash-tutorials-remove-the-first-capital-letter-from-each-array-element/
   
-  ---
-  
-  :uk: Link to problem / :georgia: დავალების ლინკი : https://www.hackerrank.com/challenges/bash-tutorials-remove-the-first-capital-letter-from-each-array-element/
-  
-  :uk:  You are given a list of countries, each on a new line. Your task is to read them into an array and then transform them in the following way:
+:uk:  You are given a list of countries, each on a new line. Your task is to read them into an array and then transform them in the following way:
 
-  The first capital letter (if present) in each element of the array should be replaced with a dot ('.'). Then, display the entire array with a space between each country's names.
+The first capital letter (if present) in each element of the array should be replaced with a dot ('.'). Then, display the entire array with a space between each country's names.
 
-  :georgia:  
+:georgia:  
 
 
 <details>
@@ -1749,24 +1410,16 @@ MediumMax Score: 1Success Rate: 98.69%
 </details>
   
   ---
-  
-</details>
-<br> <!--- ===   ===   ===   ===   ===   ===   ===   ===   ===   ===   ===   ===   ===   --->
-
 
 
 ### Lonely Integer - Bash!
 HardMax Score: 10Success Rate: 97.63%
 
-<details>
-  
-  ---
-  
-  :uk: Link to problem / :georgia: დავალების ლინკი : https://www.hackerrank.com/challenges/lonely-integer-2/
+:uk: Link to problem / :georgia: დავალების ლინკი : https://www.hackerrank.com/challenges/lonely-integer-2/
 
-  :uk:  There are $N$ integers in an array $A$. All but one integer occur in pairs. Your task is to find the number that occurs only once.
+:uk:  There are $N$ integers in an array $A$. All but one integer occur in pairs. Your task is to find the number that occurs only once.
 
-  :georgia:  
+:georgia:  
 
 
 <details>
@@ -1783,26 +1436,18 @@ HardMax Score: 10Success Rate: 97.63%
 </details>
   
   ---
-  
-</details>
-<br> <!--- ===   ===   ===   ===   ===   ===   ===   ===   ===   ===   ===   ===   ===   --->
-
 
 
 ### 'Awk' - 3
 MediumMax Score: 2Success Rate: 98.14%
 
-<details>
-  
-  ---
-  
-  :uk: Link to problem / :georgia: დავალების ლინკი : https://www.hackerrank.com/challenges/awk-3/
+:uk: Link to problem / :georgia: დავალების ლინკი : https://www.hackerrank.com/challenges/awk-3/
 
-  :uk:  You are provided a file with four space-separated columns containing the scores of students in three subjects. The first column, contains a single character (A-Z) - the identifier of the student. The next three columns have three numbers (each between 0 and 100, both inclusive) which are the scores of the students in English, Mathematics and Science respectively.
+:uk:  You are provided a file with four space-separated columns containing the scores of students in three subjects. The first column, contains a single character (A-Z) - the identifier of the student. The next three columns have three numbers (each between 0 and 100, both inclusive) which are the scores of the students in English, Mathematics and Science respectively.
 
-  Your task is to identify the performance grade for each student. If the average of the three scores is 80 or more, the grade is 'A'. If the average is 60 or above, but less than 80, the grade is 'B'. If the average is 50 or above, but less than 60, the grade is 'C'. Otherwise the grade is 'FAIL'.
+Your task is to identify the performance grade for each student. If the average of the three scores is 80 or more, the grade is 'A'. If the average is 60 or above, but less than 80, the grade is 'B'. If the average is 50 or above, but less than 60, the grade is 'C'. Otherwise the grade is 'FAIL'.
 
-  :georgia:  
+:georgia:  
 
 
 <details>
@@ -1826,24 +1471,16 @@ MediumMax Score: 2Success Rate: 98.14%
 </details>
   
   ---
-  
-</details>
-<br> <!--- ===   ===   ===   ===   ===   ===   ===   ===   ===   ===   ===   ===   ===   --->
-
 
 
 ### 'Awk' - 4
 MediumMax Score: 2Success Rate: 98.25%
 
-<details>
-  
-  ---
-  
-  :uk: Link to problem / :georgia: დავალების ლინკი : https://www.hackerrank.com/challenges/awk-4/
+:uk: Link to problem / :georgia: დავალების ლინკი : https://www.hackerrank.com/challenges/awk-4/
 
-  :uk:  You are provided a file with four space-separated columns containing the scores of students in three subjects. The first column, contains a single character (A-Z) - the identifier of the student. The next three columns have three numbers (each between 0 and 100, both inclusive) which are the scores of the students in English, Mathematics and Science respectively. 
+:uk:  You are provided a file with four space-separated columns containing the scores of students in three subjects. The first column, contains a single character (A-Z) - the identifier of the student. The next three columns have three numbers (each between 0 and 100, both inclusive) which are the scores of the students in English, Mathematics and Science respectively. 
 
-  :georgia:  
+:georgia:  
 
 
 <details>
@@ -1858,24 +1495,16 @@ MediumMax Score: 2Success Rate: 98.25%
 </details>
   
   ---
-  
-</details>
-<br> <!--- ===   ===   ===   ===   ===   ===   ===   ===   ===   ===   ===   ===   ===   --->
-
 
 
 ### 'Grep' #1
 MediumMax Score: 2Success Rate: 97.54%
 
-<details>
-  
-  ---
-  
-  :uk: Link to problem / :georgia: დავალების ლინკი : https://www.hackerrank.com/challenges/text-processing-in-linux-the-grep-command-1/
+:uk: Link to problem / :georgia: დავალების ლინკი : https://www.hackerrank.com/challenges/text-processing-in-linux-the-grep-command-1/
 
-  :uk:  You are given a text file that will be piped into your command through STDIN. Use grep to display all the lines that contain the word **the** in them. The search should be sensitive to case. Display only those lines of the input file that contain the word 'the'. 
+:uk:  You are given a text file that will be piped into your command through STDIN. Use grep to display all the lines that contain the word **the** in them. The search should be sensitive to case. Display only those lines of the input file that contain the word 'the'. 
 
-  :georgia:  
+:georgia:  
 
 
 <details>
@@ -1890,26 +1519,18 @@ MediumMax Score: 2Success Rate: 97.54%
 </details>
   
   ---
-  
-</details>
-<br> <!--- ===   ===   ===   ===   ===   ===   ===   ===   ===   ===   ===   ===   ===   --->
-
 
 
 ### 'Grep' #2
 MediumMax Score: 2Success Rate: 96.33%
 
-<details>
-  
-  ---
-  
-  :uk: Link to problem / :georgia: დავალების ლინკი : https://www.hackerrank.com/challenges/text-processing-in-linux-the-grep-command-2/
+:uk: Link to problem / :georgia: დავალების ლინკი : https://www.hackerrank.com/challenges/text-processing-in-linux-the-grep-command-2/
 
-  :uk:  You are given a text file that will be piped into your command through STDIN. Use grep to display all those lines that contain the word **the** in them.
-  The search should NOT be sensitive to case.
-  Display only those lines of the input file that contain the word 'the'. 
+:uk:  You are given a text file that will be piped into your command through STDIN. Use grep to display all those lines that contain the word **the** in them.
+The search should NOT be sensitive to case.
+Display only those lines of the input file that contain the word 'the'. 
 
-  :georgia:  
+:georgia:  
 
 
 <details>
@@ -1924,24 +1545,16 @@ MediumMax Score: 2Success Rate: 96.33%
 </details>
   
   ---
-  
-</details>
-<br> <!--- ===   ===   ===   ===   ===   ===   ===   ===   ===   ===   ===   ===   ===   --->
-
 
 
 ### 'Grep' #3
 MediumMax Score: 2Success Rate: 99.53%
 
-<details>
-  
-  ---
-  
-  :uk: Link to problem / :georgia: დავალების ლინკი : https://www.hackerrank.com/challenges/text-processing-in-linux-the-grep-command-3/
+:uk: Link to problem / :georgia: დავალების ლინკი : https://www.hackerrank.com/challenges/text-processing-in-linux-the-grep-command-3/
 
-  :uk:  You are given a text file that will be piped into your command through STDIN. Use grep to **remove** all those lines that contain the word 'that'. The search should NOT be sensitive to case.
+:uk:  You are given a text file that will be piped into your command through STDIN. Use grep to **remove** all those lines that contain the word 'that'. The search should NOT be sensitive to case.
 
-  :georgia:  
+:georgia:  
 
 
 <details>
@@ -1956,29 +1569,21 @@ MediumMax Score: 2Success Rate: 99.53%
 </details>
   
   ---
-  
-</details>
-<br> <!--- ===   ===   ===   ===   ===   ===   ===   ===   ===   ===   ===   ===   ===   --->
-
 
 
 ### 'Grep' - A
 EasyMax Score: 2Success Rate: 95.55%
 
-<details>
-  
-  ---
-  
-  :uk: Link to problem / :georgia: დავალების ლინკი : https://www.hackerrank.com/challenges/text-processing-in-linux-the-grep-command-4/
+:uk: Link to problem / :georgia: დავალების ლინკი : https://www.hackerrank.com/challenges/text-processing-in-linux-the-grep-command-4/
 
-  :uk:  Given a text file, which will be piped to your command through STDIN, use grep to display all those lines which contain any of the following words in them:
+:uk:  Given a text file, which will be piped to your command through STDIN, use grep to display all those lines which contain any of the following words in them:
   the
   that
   then
   those
   The search should not be sensitive to case. Display only those lines of an input file, which contain the required words. 
 
-  :georgia:  
+:georgia:  
 
 
 <details>
@@ -1993,31 +1598,23 @@ EasyMax Score: 2Success Rate: 95.55%
 </details>
   
   ---
-  
-</details>
-<br> <!--- ===   ===   ===   ===   ===   ===   ===   ===   ===   ===   ===   ===   ===   --->
-
 
 
 ### 'Grep' - B
 EasyMax Score: 2Success Rate: 97.07%
 
-<details>
-  
-  ---
-  
-  :uk: Link to problem / :georgia: დავალების ლინკი : https://www.hackerrank.com/challenges/text-processing-in-linux-the-grep-command-5/
+:uk: Link to problem / :georgia: დავალების ლინკი : https://www.hackerrank.com/challenges/text-processing-in-linux-the-grep-command-5/
 
-  :uk:  Given an input file, with **N** credit card numbers, each in a new line, your task is to grep out and output only those credit card numbers which have two or more consecutive occurences of the same digit (which may be separated by a space, if they are in different segments). Assume that the credit card numbers will have 4 space separated segments with 4 digits each.
+:uk:  Given an input file, with **N** credit card numbers, each in a new line, your task is to grep out and output only those credit card numbers which have two or more consecutive occurences of the same digit (which may be separated by a space, if they are in different segments). Assume that the credit card numbers will have 4 space separated segments with 4 digits each.
 
-  If the credit card number is 1434 5678 9101 1234, there are two consecutive instances of 1 (though) as highlighted in box brackets: 1434 5678 910[1] [1]234
+If the credit card number is 1434 5678 9101 1234, there are two consecutive instances of 1 (though) as highlighted in box brackets: 1434 5678 910[1] [1]234
 
-  Here are some credit card numbers where consecutively repeated digits have been highlighted in box brackets. The last case does not have any repeated digits: 1234 5678 910[1] [1]234
+Here are some credit card numbers where consecutively repeated digits have been highlighted in box brackets. The last case does not have any repeated digits: 1234 5678 910[1] [1]234
   2[9][9][9] 5178 9101 [2][2]34
   [9][9][9][9] 5628 920[1] [1]232
   8482 3678 9102 1232 
 
-  :georgia:  
+:georgia:  
 
 
 <details>
@@ -2032,24 +1629,16 @@ EasyMax Score: 2Success Rate: 97.07%
 </details>
   
   ---
-  
-</details>
-<br> <!--- ===   ===   ===   ===   ===   ===   ===   ===   ===   ===   ===   ===   ===   --->
-
 
 
 ### 'Sed' command #1
 MediumMax Score: 2Success Rate: 97.36%
 
-<details>
-  
-  ---
-  
-  :uk: Link to problem / :georgia: დავალების ლინკი : https://www.hackerrank.com/challenges/text-processing-in-linux-the-sed-command-1/
+:uk: Link to problem / :georgia: დავალების ლინკი : https://www.hackerrank.com/challenges/text-processing-in-linux-the-sed-command-1/
 
-  :uk:  For each line in a given input file, transform the first occurrence of the word 'the' with 'this'. The search and transformation should be strictly case sensitive. 
+:uk:  For each line in a given input file, transform the first occurrence of the word 'the' with 'this'. The search and transformation should be strictly case sensitive. 
 
-  :georgia:  
+:georgia:  
 
 
 <details>
@@ -2064,24 +1653,16 @@ MediumMax Score: 2Success Rate: 97.36%
 </details>
   
   ---
-  
-</details>
-<br> <!--- ===   ===   ===   ===   ===   ===   ===   ===   ===   ===   ===   ===   ===   --->
-
 
 
 ### 'Sed' command #2
 MediumMax Score: 2Success Rate: 99.35%
 
-<details>
-  
-  ---
-  
-  :uk: Link to problem / :georgia: დავალების ლინკი : https://www.hackerrank.com/challenges/text-processing-in-linux-the-sed-command-2/
+:uk: Link to problem / :georgia: დავალების ლინკი : https://www.hackerrank.com/challenges/text-processing-in-linux-the-sed-command-2/
 
-  :uk:  For each line in a given input file, transform all the occurrences of the word 'thy' with 'your'. The search should be **case insensitive**, i.e. 'thy', 'Thy', 'tHy' etc. should be transformed to 'your'. 
+:uk:  For each line in a given input file, transform all the occurrences of the word 'thy' with 'your'. The search should be **case insensitive**, i.e. 'thy', 'Thy', 'tHy' etc. should be transformed to 'your'. 
 
-  :georgia:  
+:georgia:  
 
 
 <details>
@@ -2096,24 +1677,16 @@ MediumMax Score: 2Success Rate: 99.35%
 </details>
   
   ---
-  
-</details>
-<br> <!--- ===   ===   ===   ===   ===   ===   ===   ===   ===   ===   ===   ===   ===   --->
-
 
 
 ### 'Sed' command #3
 EasyMax Score: 2Success Rate: 99.19%
 
-<details>
-  
-  ---
-  
-  :uk: Link to problem / :georgia: დავალების ლინკი : https://www.hackerrank.com/challenges/text-processing-in-linux-the-sed-command-3/
+:uk: Link to problem / :georgia: დავალების ლინკი : https://www.hackerrank.com/challenges/text-processing-in-linux-the-sed-command-3/
 
-  :uk:  Given an input file, in each line, highlight all the occurrences of 'thy' by wrapping them up in brace brackets. The search should be case-insensitive.
+:uk:  Given an input file, in each line, highlight all the occurrences of 'thy' by wrapping them up in brace brackets. The search should be case-insensitive.
 
-  :georgia:  
+:georgia:  
 
 
 <details>
@@ -2128,24 +1701,16 @@ EasyMax Score: 2Success Rate: 99.19%
 </details>
   
   ---
-  
-</details>
-<br> <!--- ===   ===   ===   ===   ===   ===   ===   ===   ===   ===   ===   ===   ===   --->
-
 
 
 ### 'Sed' command #4
 HardMax Score: 2Success Rate: 98.69%
 
-<details>
-  
-  ---
-  
-  :uk: Link to problem / :georgia: დავალების ლინკი : https://www.hackerrank.com/challenges/sed-command-4/
+:uk: Link to problem / :georgia: დავალების ლინკი : https://www.hackerrank.com/challenges/sed-command-4/
 
-  :uk:  Given $n$ lines of credit card numbers, mask the first 12 digits of each credit card number with an asterisk (i.e., *) and print the masked card number on a new line. Each credit card number consists of four space-separated groups of four digits. For example, the credit card number 1234 5678 9101 1234 would be masked and printed as **** **** **** 1234.
+:uk:  Given $n$ lines of credit card numbers, mask the first 12 digits of each credit card number with an asterisk (i.e., *) and print the masked card number on a new line. Each credit card number consists of four space-separated groups of four digits. For example, the credit card number 1234 5678 9101 1234 would be masked and printed as **** **** **** 1234.
 
-  :georgia:  
+:georgia:  
 
 
 <details>
@@ -2160,26 +1725,18 @@ HardMax Score: 2Success Rate: 98.69%
 </details>
   
   ---
-  
-</details>
-<br> <!--- ===   ===   ===   ===   ===   ===   ===   ===   ===   ===   ===   ===   ===   --->
-
 
 
 ### 'Sed' command #5
 HardMax Score: 2Success Rate: 97.20%
 
-<details>
-  
-  ---
-  
-  :uk: Link to problem / :georgia: დავალების ლინკი : https://www.hackerrank.com/challenges/sed-command-5/
+:uk: Link to problem / :georgia: დავალების ლინკი : https://www.hackerrank.com/challenges/sed-command-5/
 
-  :uk:  Given an input file, with **N** credit card numbers, each in a new line, your task is to **reverse the ordering of segments** in each credit card number. Assume that the credit card numbers will have 4 space separated segments with 4 digits each.
+:uk:  Given an input file, with **N** credit card numbers, each in a new line, your task is to **reverse the ordering of segments** in each credit card number. Assume that the credit card numbers will have 4 space separated segments with 4 digits each.
 
-  If the original credit card number is 1434 5678 9101 1234, transform it to 1234 9101 5678 1434. 
+If the original credit card number is 1434 5678 9101 1234, transform it to 1234 9101 5678 1434. 
 
-  :georgia:  
+:georgia:  
 
 
 <details>
@@ -2194,26 +1751,18 @@ HardMax Score: 2Success Rate: 97.20%
 </details>
   
   ---
-  
-</details>
-<br> <!--- ===   ===   ===   ===   ===   ===   ===   ===   ===   ===   ===   ===   ===   --->
-
 
 
 ### 'Awk' - 1
 MediumMax Score: 2Success Rate: 98.90%
 
-<details>
-  
-  ---
-  
-  :uk: Link to problem / :georgia: დავალების ლინკი : https://www.hackerrank.com/challenges/awk-1/
+:uk: Link to problem / :georgia: დავალების ლინკი : https://www.hackerrank.com/challenges/awk-1/
 
-  :uk:  You are given a file with four space separated columns containing the scores of students in three subjects. The first column contains a single character ($A - Z$), the student identifier. The next three columns have three numbers each. The numbers are between 0 and 100, both inclusive. These numbers denote the scores of the students in English, Mathematics, and Science, respectively.
+:uk:  You are given a file with four space separated columns containing the scores of students in three subjects. The first column contains a single character ($A - Z$), the student identifier. The next three columns have three numbers each. The numbers are between 0 and 100, both inclusive. These numbers denote the scores of the students in English, Mathematics, and Science, respectively.
 
-  Your task is to identify those lines that do not contain all three scores for students. 
+Your task is to identify those lines that do not contain all three scores for students. 
 
-  :georgia:  
+:georgia:  
 
 
 <details>
@@ -2231,27 +1780,19 @@ MediumMax Score: 2Success Rate: 98.90%
 </details>
   
   ---
-  
-</details>
-<br> <!--- ===   ===   ===   ===   ===   ===   ===   ===   ===   ===   ===   ===   ===   --->
-
 
 
 ### 'Awk' - 2
 MediumMax Score: 2Success Rate: 98.78%
 
-<details>
-  
-  ---
-  
-  :uk: Link to problem / :georgia: დავალების ლინკი : https://www.hackerrank.com/challenges/awk-2/
+:uk: Link to problem / :georgia: დავალების ლინკი : https://www.hackerrank.com/challenges/awk-2/
 
-  :uk:  You are given a file with four space separated columns containing the scores of students in three subjects. The first column contains a single character ($A - Z$), the student identifier. The next three columns have three numbers each. The numbers are between 0 and 100, both inclusive. These numbers denote the scores of the students in English, Mathematics, and Science, respectively.
+:uk:  You are given a file with four space separated columns containing the scores of students in three subjects. The first column contains a single character ($A - Z$), the student identifier. The next three columns have three numbers each. The numbers are between 0 and 100, both inclusive. These numbers denote the scores of the students in English, Mathematics, and Science, respectively.
 
-  Your task is to identify whether each of the students has passed or failed.
-  A student is considered to have passed if (s)he has a score 50 or more in each of the three subjects.
+Your task is to identify whether each of the students has passed or failed.
+A student is considered to have passed if (s)he has a score 50 or more in each of the three subjects.
 
-  :georgia:  
+:georgia:  
 
 
 <details>
@@ -2271,8 +1812,4 @@ MediumMax Score: 2Success Rate: 98.78%
 </details>
   
   ---
-  
-</details>
-<br> <!--- ===   ===   ===   ===   ===   ===   ===   ===   ===   ===   ===   ===   ===   --->
-
 
