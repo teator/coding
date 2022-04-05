@@ -6,81 +6,77 @@ https://www.hackerrank.com/domains/shell
 Max points: 141
 
 - [HackerRank - Linux shell](#hackerrank---linux-shell)
-    + [Let's Echo](#lets-echo)
-    + [Looping and Skipping](#looping-and-skipping)
-    + [A Personalized Echo](#a-personalized-echo)
-    + [Looping with Numbers](#looping-with-numbers)
-    + [The World of Numbers](#the-world-of-numbers)
-    + [Comparing Numbers](#comparing-numbers)
-    + [Getting started with conditionals](#getting-started-with-conditionals)
-    + [More on Conditionals](#more-on-conditionals)
-    + [Arithmetic Operations](#arithmetic-operations)
-    + [Compute the Average](#compute-the-average)
-    + [Functions and Fractals - Recursive Trees - Bash!](#functions-and-fractals---recursive-trees---bash-)
-    + [Cut #1](#cut--1)
-    + [Cut #2](#cut--2)
-    + [Cut #3](#cut--3)
-    + [Cut #4](#cut--4)
-    + [Cut #5](#cut--5)
-    + [Cut #6](#cut--6)
-    + [Cut #7](#cut--7)
-    + [Cut #8](#cut--8)
-    + [Cut #9](#cut--9)
-    + [Head of a Text File #1](#head-of-a-text-file--1)
-    + [Head of a Text File #2](#head-of-a-text-file--2)
-    + [Middle of a Text File](#middle-of-a-text-file)
-    + [Tail of a Text File #1](#tail-of-a-text-file--1)
-    + [Tail of a Text File #2](#tail-of-a-text-file--2)
-    + ['Tr' Command #1](#-tr--command--1)
-    + ['Tr' Command #2](#-tr--command--2)
-    + ['Tr' Command #3](#-tr--command--3)
-    + [Sort Command #1](#sort-command--1)
-    + [Sort Command #2](#sort-command--2)
-    + [Sort Command #3](#sort-command--3)
-    + [Sort Command #4](#sort-command--4)
-    + [Sort Command #5](#sort-command--5)
-    + ['Sort' command #6](#-sort--command--6)
-    + ['Sort' command #7](#-sort--command--7)
-    + ['Uniq' Command #1](#-uniq--command--1)
-    + ['Uniq' Command #2](#-uniq--command--2)
-    + ['Uniq' command #3](#-uniq--command--3)
-    + ['Uniq' command #4](#-uniq--command--4)
-    + [Paste - 3](#paste---3)
-    + [Paste - 4](#paste---4)
-    + [Paste - 1](#paste---1)
-    + [Paste - 2](#paste---2)
-    + [Read in an Array](#read-in-an-array)
-    + [Slice an Array](#slice-an-array)
-    + [Filter an Array with Patterns](#filter-an-array-with-patterns)
-    + [Concatenate an array with itself](#concatenate-an-array-with-itself)
-    + [Display an element of an array](#display-an-element-of-an-array)
-    + [Count the number of elements in an Array](#count-the-number-of-elements-in-an-array)
-    + [Remove the First Capital Letter from Each Element](#remove-the-first-capital-letter-from-each-element)
-    + [Lonely Integer - Bash!](#lonely-integer---bash-)
-    + ['Awk' - 3](#-awk----3)
-    + ['Awk' - 4](#-awk----4)
-    + ['Grep' #1](#-grep---1)
-    + ['Grep' #2](#-grep---2)
-    + ['Grep' #3](#-grep---3)
-    + ['Grep' - A](#-grep----a)
-    + ['Grep' - B](#-grep----b)
-    + ['Sed' command #1](#-sed--command--1)
-    + ['Sed' command #2](#-sed--command--2)
-    + ['Sed' command #3](#-sed--command--3)
-    + ['Sed' command #4](#-sed--command--4)
-    + ['Sed' command #5](#-sed--command--5)
-    + ['Awk' - 1](#-awk----1)
-    + ['Awk' - 2](#-awk----2)
-
-<small><i><a href='http://ecotrust-canada.github.io/markdown-toc/'>Table of contents generated with markdown-toc</a></i></small>
-
+    + [Let's Echo](#01)
+    + [Looping and Skipping](#02)
+    + [A Personalized Echo](#03)
+    + [Looping with Numbers](#04)
+    + [The World of Numbers](#05)
+    + [Comparing Numbers](#06)
+    + [Getting started with conditionals](#07)
+    + [More on Conditionals](#08)
+    + [Arithmetic Operations](#09)
+    + [Compute the Average](#10)
+    + [Functions and Fractals - Recursive Trees - Bash!](#11)
+    + [Cut #1](#12)
+    + [Cut #2](#13)
+    + [Cut #3](#14)
+    + [Cut #4](#15)
+    + [Cut #5](#16)
+    + [Cut #6](#17)
+    + [Cut #7](#18)
+    + [Cut #8](#19)
+    + [Cut #9](#20)
+    + [Head of a Text File #1](#21)
+    + [Head of a Text File #2](#22)
+    + [Middle of a Text File](#23)
+    + [Tail of a Text File #1](#24)
+    + [Tail of a Text File #2](#25)
+    + ['Tr' Command #1](#26)
+    + ['Tr' Command #2](#27)
+    + ['Tr' Command #3](#28)
+    + [Sort Command #1](#29)
+    + [Sort Command #2](#30)
+    + [Sort Command #3](#31)
+    + [Sort Command #4](#32)
+    + [Sort Command #5](#33)
+    + ['Sort' command #6](#34)
+    + ['Sort' command #7](#35)
+    + ['Uniq' Command #1](#36)
+    + ['Uniq' Command #2](#37)
+    + ['Uniq' command #3](#38)
+    + ['Uniq' command #4](#39)
+    + [Paste - 3](#40)
+    + [Paste - 4](#41)
+    + [Paste - 1](#42)
+    + [Paste - 2](#43)
+    + [Read in an Array](#44)
+    + [Slice an Array](#45)
+    + [Filter an Array with Patterns](#46)
+    + [Concatenate an array with itself](#47)
+    + [Display an element of an array](#48)
+    + [Count the number of elements in an Array](#49)
+    + [Remove the First Capital Letter from Each Element](#50)
+    + [Lonely Integer - Bash!](#51)
+    + ['Awk' - 3](#52)
+    + ['Awk' - 4](#53)
+    + ['Grep' #1](#54)
+    + ['Grep' #2](#55)
+    + ['Grep' #3](#56)
+    + ['Grep' - A](#57)
+    + ['Grep' - B](#58)
+    + ['Sed' command #1](#59)
+    + ['Sed' command #2](#60)
+    + ['Sed' command #3](#61)
+    + ['Sed' command #4](#62)
+    + ['Sed' command #5](#63)
+    + ['Awk' - 1](#64)
+    + ['Awk' - 2](#65)
 
 <br>
 
-
 ---
 
-### Let's Echo<a id='Lets Echo'></a>
+### Let's Echo<a id='01'></a>
 EasyBash (Basic) / Max Score: 1 / Success Rate: 98.19%
   
 :uk: Link to problem / :georgia: დავალების ლინკი : https://www.hackerrank.com/challenges/bash-tutorials-lets-echo/problem
@@ -103,8 +99,8 @@ EasyBash (Basic) / Max Score: 1 / Success Rate: 98.19%
 
 ---
 
-### Looping and Skipping
-EasyBash (Basic)Max Score: 2Success Rate: 96.00%
+### Looping and Skipping<a id='02'></a>
+EasyBash (Basic) / Max Score: 2 / Success Rate: 96.00%
 
 :uk: Link to problem / :georgia: დავალების ლინკი : https://www.hackerrank.com/challenges/bash-tutorials---looping-and-skipping/problem
 
@@ -130,8 +126,8 @@ EasyBash (Basic)Max Score: 2Success Rate: 96.00%
   ---
 
 
-### A Personalized Echo
-EasyBash (Basic)Max Score: 1Success Rate: 98.41%
+### A Personalized Echo<a id='03'></a>
+EasyBash (Basic) / Max Score: 1 / Success Rate: 98.41%
 
 :uk: Link to problem / :georgia: დავალების ლინკი : https://www.hackerrank.com/challenges/bash-tutorials---a-personalized-echo/
 
@@ -155,8 +151,8 @@ EasyBash (Basic)Max Score: 1Success Rate: 98.41%
   ---
 
 
-### Looping with Numbers
-EasyBash (Basic)Max Score: 2Success Rate: 99.46%
+### Looping with Numbers<a id='04'></a>
+EasyBash (Basic) / Max Score: 2 / Success Rate: 99.46%
 
 :uk: Link to problem / :georgia: დავალების ლინკი : https://www.hackerrank.com/challenges/bash-tutorials---looping-with-numbers/
 
@@ -182,8 +178,8 @@ EasyBash (Basic)Max Score: 2Success Rate: 99.46%
   ---
 
 
-### The World of Numbers
-EasyBash (Basic)Max Score: 2Success Rate: 97.38%
+### The World of Numbers<a id='05'></a>
+EasyBash (Basic) / Max Score: 2 / Success Rate: 97.38%
 
 :uk: Link to problem / :georgia: დავალების ლინკი : https://www.hackerrank.com/challenges/bash-tutorials---the-world-of-numbers/
 
@@ -211,8 +207,8 @@ EasyBash (Basic)Max Score: 2Success Rate: 97.38%
   ---
 
 
-### Comparing Numbers
-EasyBash (Basic)Max Score: 3Success Rate: 97.75%
+### Comparing Numbers<a id='06'></a>
+EasyBash (Basic) / Max Score: 3 / Success Rate: 97.75%
 
 :uk: Link to problem / :georgia: დავალების ლინკი : https://www.hackerrank.com/challenges/bash-tutorials---comparing-numbers/
 
@@ -251,8 +247,8 @@ EasyBash (Basic)Max Score: 3Success Rate: 97.75%
   ---
 
 
-### Getting started with conditionals
-EasyBash (Basic)Max Score: 3Success Rate: 97.53%
+### Getting started with conditionals<a id='07'></a>
+EasyBash (Basic) / Max Score: 3 / Success Rate: 97.53%
 
 :uk: Link to problem / :georgia: დავალების ლინკი : https://www.hackerrank.com/challenges/bash-tutorials---getting-started-with-conditionals/
 
@@ -285,8 +281,8 @@ EasyBash (Basic)Max Score: 3Success Rate: 97.53%
   ---
 
 
-### More on Conditionals
-EasyBash (Basic)Max Score: 3Success Rate: 96.49%
+### More on Conditionals<a id='08'></a>
+EasyBash (Basic) / Max Score: 3 / Success Rate: 96.49%
 
 :uk: Link to problem / :georgia: დავალების ლინკი : https://www.hackerrank.com/challenges/bash-tutorials---more-on-conditionals/
 
@@ -325,8 +321,8 @@ EasyBash (Basic)Max Score: 3Success Rate: 96.49%
   ---
 
 
-### Arithmetic Operations
-MediumBash (Basic)Max Score: 3Success Rate: 91.59%
+### Arithmetic Operations<a id='09'></a>
+MediumBash (Basic) / Max Score: 3 / Success Rate: 91.59%
 
 :uk: Link to problem / :georgia: დავალების ლინკი : https://www.hackerrank.com/challenges/bash-tutorials---arithmetic-operations/
 
@@ -350,8 +346,8 @@ MediumBash (Basic)Max Score: 3Success Rate: 91.59%
   ---
 
 
-### Compute the Average
-MediumBash (Basic)Max Score: 4Success Rate: 90.01%
+### Compute the Average<a id='10'></a>
+MediumBash (Basic) / Max Score: 4 / Success Rate: 90.01%
 
 :uk: Link to problem / :georgia: დავალების ლინკი : https://www.hackerrank.com/challenges/bash-tutorials---compute-the-average/
 
@@ -376,8 +372,8 @@ MediumBash (Basic)Max Score: 4Success Rate: 90.01%
   ---
 
 
-### Functions and Fractals - Recursive Trees - Bash!
-HardMax Score: 30Success Rate: 93.20%
+### Functions and Fractals - Recursive Trees - Bash!<a id='11'></a>
+Hard / Max Score: 30 / Success Rate: 93.20%
 
 :uk: Link to problem / :georgia: დავალების ლინკი : https://www.hackerrank.com/challenges/fractal-trees-all/
   
@@ -436,8 +432,8 @@ HardMax Score: 30Success Rate: 93.20%
   ---
 
 
-### Cut #1
-EasyBash (Basic)Max Score: 1Success Rate: 96.67%
+### Cut #1<a id='12'></a>
+EasyBash (Basic) / Max Score: 1 / Success Rate: 96.67%
 
 :uk: Link to problem / :georgia: დავალების ლინკი : https://www.hackerrank.com/challenges/text-processing-cut-1/
 
@@ -460,8 +456,8 @@ EasyBash (Basic)Max Score: 1Success Rate: 96.67%
   ---
 
 
-### Cut #2
-EasyMax Score: 1Success Rate: 98.34%
+### Cut #2<a id='13'></a>
+Easy / Max Score: 1 / Success Rate: 98.34%
 
 :uk: Link to problem / :georgia: დავალების ლინკი : https://www.hackerrank.com/challenges/text-processing-cut-2/
 
@@ -484,8 +480,8 @@ EasyMax Score: 1Success Rate: 98.34%
   ---
 
 
-### Cut #3
-EasyBash (Basic)Max Score: 1Success Rate: 99.25%
+### Cut #3<a id='14'></a>
+EasyBash (Basic) / Max Score: 1 / Success Rate: 99.25%
 
 :uk: Link to problem / :georgia: დავალების ლინკი : https://www.hackerrank.com/challenges/text-processing-cut-3/
 
@@ -508,8 +504,8 @@ EasyBash (Basic)Max Score: 1Success Rate: 99.25%
   ---
 
 
-### Cut #4
-EasyMax Score: 1Success Rate: 99.66%
+### Cut #4<a id='15'></a>
+Easy / Max Score: 1 / Success Rate: 99.66%
 
 :uk: Link to problem / :georgia: დავალების ლინკი : https://www.hackerrank.com/challenges/text-processing-cut-4/
 
@@ -532,8 +528,8 @@ EasyMax Score: 1Success Rate: 99.66%
   ---
 
 
-### Cut #5
-EasyMax Score: 1Success Rate: 98.14%
+### Cut #5<a id='16'></a>
+Easy / Max Score: 1 / Success Rate: 98.14%
 
 :uk: Link to problem / :georgia: დავალების ლინკი : https://www.hackerrank.com/challenges/text-processing-cut-5/
 
@@ -556,8 +552,8 @@ EasyMax Score: 1Success Rate: 98.14%
   ---
 
 
-### Cut #6
-EasyMax Score: 1Success Rate: 99.51%
+### Cut #6<a id='17'></a>
+Easy / Max Score: 1 / Success Rate: 99.51%
 
 :uk: Link to problem / :georgia: დავალების ლინკი : https://www.hackerrank.com/challenges/text-processing-cut-6/
 
@@ -580,8 +576,8 @@ EasyMax Score: 1Success Rate: 99.51%
   ---
 
 
-### Cut #7
-EasyMax Score: 1Success Rate: 98.45%
+### Cut #7<a id='18'></a>
+Easy / Max Score: 1 / Success Rate: 98.45%
 
 :uk: Link to problem / :georgia: დავალების ლინკი : https://www.hackerrank.com/challenges/text-processing-cut-7/
 
@@ -604,8 +600,8 @@ EasyMax Score: 1Success Rate: 98.45%
   ---
 
 
-### Cut #8
-EasyMax Score: 1Success Rate: 99.77%
+### Cut #8<a id='19'></a>
+Easy / Max Score: 1 / Success Rate: 99.77%
 
 :uk: Link to problem / :georgia: დავალების ლინკი : https://www.hackerrank.com/challenges/text-processing-cut-8/
 
@@ -628,8 +624,8 @@ EasyMax Score: 1Success Rate: 99.77%
   ---
 
 
-### Cut #9
-EasyMax Score: 1Success Rate: 99.10%
+### Cut #9<a id='20'></a>
+Easy / Max Score: 1 / Success Rate: 99.10%
 
 :uk: Link to problem / :georgia: დავალების ლინკი : https://www.hackerrank.com/challenges/text-processing-cut-9/
 
@@ -652,8 +648,8 @@ EasyMax Score: 1Success Rate: 99.10%
   ---
 
 
-### Head of a Text File #1
-EasyMax Score: 2Success Rate: 99.53%
+### Head of a Text File #1<a id='21'></a>
+Easy / Max Score: 2 / Success Rate: 99.53%
 
 :uk: Link to problem / :georgia: დავალების ლინკი : https://www.hackerrank.com/challenges/text-processing-head-1/
 
@@ -678,8 +674,8 @@ EasyMax Score: 2Success Rate: 99.53%
   ---
 
 
-### Head of a Text File #2
-EasyMax Score: 2Success Rate: 98.67%
+### Head of a Text File #2<a id='22'></a>
+Easy / Max Score: 2 / Success Rate: 98.67%
 
 :uk: Link to problem / :georgia: დავალების ლინკი : https://www.hackerrank.com/challenges/text-processing-head-2/
   
@@ -704,8 +700,8 @@ EasyMax Score: 2Success Rate: 98.67%
   ---
 
 
-### Middle of a Text File
-EasyMax Score: 3Success Rate: 99.04%
+### Middle of a Text File<a id='23'></a>
+Easy / Max Score: 3 / Success Rate: 99.04%
 
 :uk: Link to problem / :georgia: დავალების ლინკი : https://www.hackerrank.com/challenges/text-processing-in-linux---the-middle-of-a-text-file/
 
@@ -728,8 +724,8 @@ EasyMax Score: 3Success Rate: 99.04%
   ---
 
 
-### Tail of a Text File #1
-EasyMax Score: 2Success Rate: 99.86%
+### Tail of a Text File #1<a id='24'></a>
+Easy / Max Score: 2 / Success Rate: 99.86%
 
 :uk: Link to problem / :georgia: დავალების ლინკი : https://www.hackerrank.com/challenges/text-processing-tail-1/
 
@@ -754,8 +750,8 @@ EasyMax Score: 2Success Rate: 99.86%
   ---
 
 
-### Tail of a Text File #2
-EasyMax Score: 2Success Rate: 99.61%
+### Tail of a Text File #2<a id='25'></a>
+Easy / Max Score: 2 / Success Rate: 99.61%
 
 :uk: Link to problem / :georgia: დავალების ლინკი : https://www.hackerrank.com/challenges/text-processing-tail-2/
 
@@ -780,8 +776,8 @@ EasyMax Score: 2Success Rate: 99.61%
   ---
 
 
-### 'Tr' Command #1
-EasyMax Score: 1Success Rate: 98.99%
+### 'Tr' Command #1<a id='26'></a>
+Easy / Max Score: 1 / Success Rate: 98.99%
 
 :uk: Link to problem / :georgia: დავალების ლინკი : https://www.hackerrank.com/challenges/text-processing-tr-1/
 
@@ -806,8 +802,8 @@ EasyMax Score: 1Success Rate: 98.99%
   ---
 
 
-### 'Tr' Command #2
-EasyMax Score: 1Success Rate: 99.24%
+### 'Tr' Command #2<a id='27'></a>
+Easy / Max Score: 1 / Success Rate: 99.24%
 
 :uk: Link to problem / :georgia: დავალების ლინკი : https://www.hackerrank.com/challenges/text-processing-tr-2/
 
@@ -832,8 +828,8 @@ EasyMax Score: 1Success Rate: 99.24%
   ---
 
 
-### 'Tr' Command #3
-EasyMax Score: 1Success Rate: 99.26%
+### 'Tr' Command #3<a id='28'></a>
+Easy / Max Score: 1 / Success Rate: 99.26%
 
 :uk: Link to problem / :georgia: დავალების ლინკი : https://www.hackerrank.com/challenges/text-processing-tr-3/
 
@@ -856,8 +852,8 @@ EasyMax Score: 1Success Rate: 99.26%
   ---
 
 
-### Sort Command #1
-EasyMax Score: 1Success Rate: 99.79%
+### Sort Command #1<a id='29'></a>
+Easy / Max Score: 1 / Success Rate: 99.79%
 
 :uk: Link to problem / :georgia: დავალების ლინკი : https://www.hackerrank.com/challenges/text-processing-sort-1/
 
@@ -882,8 +878,8 @@ EasyMax Score: 1Success Rate: 99.79%
   ---
 
 
-### Sort Command #2
-EasyMax Score: 1Success Rate: 99.89%
+### Sort Command #2<a id='30'></a>
+Easy / Max Score: 1 / Success Rate: 99.89%
 
 :uk: Link to problem / :georgia: დავალების ლინკი : https://www.hackerrank.com/challenges/text-processing-sort-2/
 
@@ -908,8 +904,8 @@ EasyMax Score: 1Success Rate: 99.89%
   ---
 
 
-### Sort Command #3
-EasyMax Score: 1Success Rate: 99.92%
+### Sort Command #3<a id='31'></a>
+Easy / Max Score: 1 / Success Rate: 99.92%
 
 :uk: Link to problem / :georgia: დავალების ლინკი : https://www.hackerrank.com/challenges/text-processing-sort-3/
 
@@ -934,8 +930,8 @@ EasyMax Score: 1Success Rate: 99.92%
   ---
 
 
-### Sort Command #4
-EasyMax Score: 1Success Rate: 99.89%
+### Sort Command #4<a id='32'></a>
+Easy / Max Score: 1 / Success Rate: 99.89%
 
 :uk: Link to problem / :georgia: დავალების ლინკი : https://www.hackerrank.com/challenges/text-processing-sort-4/
 
@@ -958,8 +954,8 @@ EasyMax Score: 1Success Rate: 99.89%
   ---
 
 
-### Sort Command #5
-EasyMax Score: 1Success Rate: 96.74%
+### Sort Command #5<a id='33'></a>
+Easy / Max Score: 1 / Success Rate: 96.74%
 
 :uk: Link to problem / :georgia: დავალების ლინკი : https://www.hackerrank.com/challenges/text-processing-sort-5/
 
@@ -982,8 +978,8 @@ EasyMax Score: 1Success Rate: 96.74%
   ---
 
 
-### 'Sort' command #6
-EasyMax Score: 1Success Rate: 99.14%
+### 'Sort' command #6<a id='34'></a>
+Easy / Max Score: 1 / Success Rate: 99.14%
 
 :uk: Link to problem / :georgia: დავალების ლინკი : https://www.hackerrank.com/challenges/text-processing-sort-6/
 
@@ -1009,8 +1005,8 @@ The first five columns of this data are: (a) the name of the city (b) the averag
   ---
 
 
-### 'Sort' command #7
-EasyMax Score: 1Success Rate: 99.38%
+### 'Sort' command #7<a id='35'></a>
+Easy / Max Score: 1 / Success Rate: 99.38%
 
 :uk: Link to problem / :georgia: დავალების ლინკი : https://www.hackerrank.com/challenges/text-processing-sort-7/
 
@@ -1035,8 +1031,8 @@ EasyMax Score: 1Success Rate: 99.38%
   ---
 
 
-### 'Uniq' Command #1
-EasyMax Score: 1Success Rate: 99.09%
+### 'Uniq' Command #1<a id='36'></a>
+Easy / Max Score: 1 / Success Rate: 99.09%
 
 :uk: Link to problem / :georgia: დავალების ლინკი : https://www.hackerrank.com/challenges/text-processing-in-linux-the-uniq-command-1/
 
@@ -1061,8 +1057,8 @@ EasyMax Score: 1Success Rate: 99.09%
   ---
 
 
-### 'Uniq' Command #2
-EasyMax Score: 1Success Rate: 95.86%
+### 'Uniq' Command #2<a id='37'></a>
+Easy / Max Score: 1 / Success Rate: 95.86%
 
 :uk: Link to problem / :georgia: დავალების ლინკი : https://www.hackerrank.com/challenges/text-processing-in-linux-the-uniq-command-2/
 
@@ -1087,8 +1083,8 @@ Given a text file, count the number of times each line repeats itself. Only cons
   ---
 
 
-### 'Uniq' command #3
-EasyMax Score: 1Success Rate: 98.45%
+### 'Uniq' command #3<a id='38'></a>
+Easy / Max Score: 1 / Success Rate: 98.45%
 
 :uk: Link to problem / :georgia: დავალების ლინკი : https://www.hackerrank.com/challenges/text-processing-in-linux-the-uniq-command-3/
 
@@ -1115,8 +1111,8 @@ So, as you might observe in the case below: aa, AA and Aa are all counted as ins
   ---
 
 
-### 'Uniq' command #4
-EasyMax Score: 1Success Rate: 99.75%
+### 'Uniq' command #4<a id='39'></a>
+Easy / Max Score: 1 / Success Rate: 99.75%
 
 :uk: Link to problem / :georgia: დავალების ლინკი : https://www.hackerrank.com/challenges/text-processing-in-linux-the-uniq-command-4/
 
@@ -1139,8 +1135,8 @@ EasyMax Score: 1Success Rate: 99.75%
   ---
 
 
-### Paste - 3
-MediumMax Score: 2Success Rate: 99.53%
+### Paste - 3<a id='40'></a>
+Medium / Max Score: 2 / Success Rate: 99.53%
 
 :uk: Link to problem / :georgia: დავალების ლინკი : https://www.hackerrank.com/challenges/paste-3/
 
@@ -1163,8 +1159,8 @@ MediumMax Score: 2Success Rate: 99.53%
   ---
 
 
-### Paste - 4
-MediumMax Score: 2Success Rate: 99.66%
+### Paste - 4<a id='41'></a>
+Medium / Max Score: 2 / Success Rate: 99.66%
 
 :uk: Link to problem / :georgia: დავალების ლინკი : https://www.hackerrank.com/challenges/paste-4/
 
@@ -1187,8 +1183,8 @@ MediumMax Score: 2Success Rate: 99.66%
   ---
 
 
-### Paste - 1
-MediumMax Score: 2Success Rate: 99.42%
+### Paste - 1<a id='42'></a>
+Medium / Max Score: 2 / Success Rate: 99.42%
 
 :uk: Link to problem / :georgia: დავალების ლინკი : https://www.hackerrank.com/challenges/paste-1/
 
@@ -1213,8 +1209,8 @@ You are given a CSV file where each row contains the name of a city and its stat
   ---
 
 
-### Paste - 2
-MediumMax Score: 2Success Rate: 99.59%
+### Paste - 2<a id='43'></a>
+Medium / Max Score: 2 / Success Rate: 99.59%
 
 :uk: Link to problem / :georgia: დავალების ლინკი : https://www.hackerrank.com/challenges/paste-2/
 
@@ -1239,8 +1235,8 @@ You are given a CSV file where each row contains the name of a city and its stat
   ---
 
 
-### Read in an Array
-EasyMax Score: 1Success Rate: 97.87%
+### Read in an Array<a id='44'></a>
+Easy / Max Score: 1 / Success Rate: 97.87%
 
 :uk: Link to problem / :georgia: დავალების ლინკი : https://www.hackerrank.com/challenges/bash-tutorials-read-in-an-array/
 
@@ -1263,8 +1259,8 @@ EasyMax Score: 1Success Rate: 97.87%
   ---
 
 
-### Slice an Array
-EasyMax Score: 1Success Rate: 99.20%
+### Slice an Array<a id='45'></a>
+Easy / Max Score: 1 / Success Rate: 99.20%
 
 :uk: Link to problem / :georgia: დავალების ლინკი : https://www.hackerrank.com/challenges/bash-tutorials-slice-an-array/
 
@@ -1287,8 +1283,8 @@ EasyMax Score: 1Success Rate: 99.20%
   ---
 
 
-### Filter an Array with Patterns
-MediumMax Score: 1Success Rate: 97.73%
+### Filter an Array with Patterns<a id='46'></a>
+Medium / Max Score: 1 / Success Rate: 97.73%
 
 :uk: Link to problem / :georgia: დავალების ლინკი : https://www.hackerrank.com/challenges/bash-tutorials-filter-an-array-with-patterns/
 
@@ -1311,8 +1307,8 @@ MediumMax Score: 1Success Rate: 97.73%
   ---
 
 
-### Concatenate an array with itself
-EasyMax Score: 1Success Rate: 98.28%
+### Concatenate an array with itself<a id='47'></a>
+Easy / Max Score: 1 / Success Rate: 98.28%
 
 :uk: Link to problem / :georgia: დავალების ლინკი : https://www.hackerrank.com/challenges/bash-tutorials-concatenate-an-array-with-itself/
 
@@ -1336,8 +1332,8 @@ EasyMax Score: 1Success Rate: 98.28%
   ---
 
 
-### Display an element of an array
-EasyMax Score: 1Success Rate: 99.49%
+### Display an element of an array<a id='48'></a>
+Easy / Max Score: 1 / Success Rate: 99.49%
 
 :uk: Link to problem / :georgia: დავალების ლინკი : https://www.hackerrank.com/challenges/bash-tutorials-display-the-third-element-of-an-array/
 
@@ -1360,8 +1356,8 @@ EasyMax Score: 1Success Rate: 99.49%
   ---
 
 
-### Count the number of elements in an Array
-EasyMax Score: 1Success Rate: 99.34%
+### Count the number of elements in an Array<a id='49'></a>
+Easy / Max Score: 1 / Success Rate: 99.34%
 
 :uk: Link to problem / :georgia: დავალების ლინკი : https://www.hackerrank.com/challenges/bash-tutorials-count-the-number-of-elements-in-an-array/
   
@@ -1385,8 +1381,8 @@ EasyMax Score: 1Success Rate: 99.34%
   ---
 
 
-### Remove the First Capital Letter from Each Element
-MediumMax Score: 1Success Rate: 98.69%
+### Remove the First Capital Letter from Each Element<a id='50'></a>
+Medium / Max Score: 1 / Success Rate: 98.69%
 
 :uk: Link to problem / :georgia: დავალების ლინკი : https://www.hackerrank.com/challenges/bash-tutorials-remove-the-first-capital-letter-from-each-array-element/
   
@@ -1412,8 +1408,8 @@ The first capital letter (if present) in each element of the array should be rep
   ---
 
 
-### Lonely Integer - Bash!
-HardMax Score: 10Success Rate: 97.63%
+### Lonely Integer - Bash!<a id='51'></a>
+Hard / Max Score: 10 / Success Rate: 97.63%
 
 :uk: Link to problem / :georgia: დავალების ლინკი : https://www.hackerrank.com/challenges/lonely-integer-2/
 
@@ -1438,8 +1434,8 @@ HardMax Score: 10Success Rate: 97.63%
   ---
 
 
-### 'Awk' - 3
-MediumMax Score: 2Success Rate: 98.14%
+### 'Awk' - 3<a id='52'></a>
+Medium / Max Score: 2 / Success Rate: 98.14%
 
 :uk: Link to problem / :georgia: დავალების ლინკი : https://www.hackerrank.com/challenges/awk-3/
 
@@ -1473,8 +1469,8 @@ Your task is to identify the performance grade for each student. If the average 
   ---
 
 
-### 'Awk' - 4
-MediumMax Score: 2Success Rate: 98.25%
+### 'Awk' - 4<a id='53'></a>
+Medium / Max Score: 2 / Success Rate: 98.25%
 
 :uk: Link to problem / :georgia: დავალების ლინკი : https://www.hackerrank.com/challenges/awk-4/
 
@@ -1497,8 +1493,8 @@ MediumMax Score: 2Success Rate: 98.25%
   ---
 
 
-### 'Grep' #1
-MediumMax Score: 2Success Rate: 97.54%
+### 'Grep' #1<a id='54'></a>
+Medium / Max Score: 2 / Success Rate: 97.54%
 
 :uk: Link to problem / :georgia: დავალების ლინკი : https://www.hackerrank.com/challenges/text-processing-in-linux-the-grep-command-1/
 
@@ -1521,8 +1517,8 @@ MediumMax Score: 2Success Rate: 97.54%
   ---
 
 
-### 'Grep' #2
-MediumMax Score: 2Success Rate: 96.33%
+### 'Grep' #2<a id='55'></a>
+Medium / Max Score: 2 / Success Rate: 96.33%
 
 :uk: Link to problem / :georgia: დავალების ლინკი : https://www.hackerrank.com/challenges/text-processing-in-linux-the-grep-command-2/
 
@@ -1547,8 +1543,8 @@ Display only those lines of the input file that contain the word 'the'.
   ---
 
 
-### 'Grep' #3
-MediumMax Score: 2Success Rate: 99.53%
+### 'Grep' #3<a id='56'></a>
+Medium / Max Score: 2 / Success Rate: 99.53%
 
 :uk: Link to problem / :georgia: დავალების ლინკი : https://www.hackerrank.com/challenges/text-processing-in-linux-the-grep-command-3/
 
@@ -1571,8 +1567,8 @@ MediumMax Score: 2Success Rate: 99.53%
   ---
 
 
-### 'Grep' - A
-EasyMax Score: 2Success Rate: 95.55%
+### 'Grep' - A<a id='57'></a>
+Easy / Max Score: 2 / Success Rate: 95.55%
 
 :uk: Link to problem / :georgia: დავალების ლინკი : https://www.hackerrank.com/challenges/text-processing-in-linux-the-grep-command-4/
 
@@ -1600,8 +1596,8 @@ EasyMax Score: 2Success Rate: 95.55%
   ---
 
 
-### 'Grep' - B
-EasyMax Score: 2Success Rate: 97.07%
+### 'Grep' - B<a id='58'></a>
+Easy / Max Score: 2 / Success Rate: 97.07%
 
 :uk: Link to problem / :georgia: დავალების ლინკი : https://www.hackerrank.com/challenges/text-processing-in-linux-the-grep-command-5/
 
@@ -1631,8 +1627,8 @@ Here are some credit card numbers where consecutively repeated digits have been 
   ---
 
 
-### 'Sed' command #1
-MediumMax Score: 2Success Rate: 97.36%
+### 'Sed' command #1<a id='59'></a>
+Medium / Max Score: 2 / Success Rate: 97.36%
 
 :uk: Link to problem / :georgia: დავალების ლინკი : https://www.hackerrank.com/challenges/text-processing-in-linux-the-sed-command-1/
 
@@ -1655,8 +1651,8 @@ MediumMax Score: 2Success Rate: 97.36%
   ---
 
 
-### 'Sed' command #2
-MediumMax Score: 2Success Rate: 99.35%
+### 'Sed' command #2<a id='60'></a>
+Medium / Max Score: 2 / Success Rate: 99.35%
 
 :uk: Link to problem / :georgia: დავალების ლინკი : https://www.hackerrank.com/challenges/text-processing-in-linux-the-sed-command-2/
 
@@ -1679,8 +1675,8 @@ MediumMax Score: 2Success Rate: 99.35%
   ---
 
 
-### 'Sed' command #3
-EasyMax Score: 2Success Rate: 99.19%
+### 'Sed' command #3<a id='61'></a>
+Easy / Max Score: 2 / Success Rate: 99.19%
 
 :uk: Link to problem / :georgia: დავალების ლინკი : https://www.hackerrank.com/challenges/text-processing-in-linux-the-sed-command-3/
 
@@ -1703,8 +1699,8 @@ EasyMax Score: 2Success Rate: 99.19%
   ---
 
 
-### 'Sed' command #4
-HardMax Score: 2Success Rate: 98.69%
+### 'Sed' command #4<a id='62'></a>
+Hard / Max Score: 2 / Success Rate: 98.69%
 
 :uk: Link to problem / :georgia: დავალების ლინკი : https://www.hackerrank.com/challenges/sed-command-4/
 
@@ -1727,8 +1723,8 @@ HardMax Score: 2Success Rate: 98.69%
   ---
 
 
-### 'Sed' command #5
-HardMax Score: 2Success Rate: 97.20%
+### 'Sed' command #5<a id='63'></a>
+Hard / Max Score: 2 / Success Rate: 97.20%
 
 :uk: Link to problem / :georgia: დავალების ლინკი : https://www.hackerrank.com/challenges/sed-command-5/
 
@@ -1753,8 +1749,8 @@ If the original credit card number is 1434 5678 9101 1234, transform it to 1234 
   ---
 
 
-### 'Awk' - 1
-MediumMax Score: 2Success Rate: 98.90%
+### 'Awk' - 1<a id='64'></a>
+Medium / Max Score: 2 / Success Rate: 98.90%
 
 :uk: Link to problem / :georgia: დავალების ლინკი : https://www.hackerrank.com/challenges/awk-1/
 
@@ -1782,8 +1778,8 @@ Your task is to identify those lines that do not contain all three scores for st
   ---
 
 
-### 'Awk' - 2
-MediumMax Score: 2Success Rate: 98.78%
+### 'Awk' - 2<a id='65'></a>
+Medium / Max Score: 2 / Success Rate: 98.78%
 
 :uk: Link to problem / :georgia: დავალების ლინკი : https://www.hackerrank.com/challenges/awk-2/
 
