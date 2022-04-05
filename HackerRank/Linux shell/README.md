@@ -5,7 +5,7 @@ https://www.hackerrank.com/domains/shell
 
 Max points: 141
 
-- [HackerRank - Linux shell](#hackerrank---linux-shell)
+- Problemset
     + [Let's Echo](#01)
     + [Looping and Skipping](#02)
     + [A Personalized Echo](#03)
