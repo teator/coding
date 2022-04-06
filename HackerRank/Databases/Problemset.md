@@ -1,6 +1,3 @@
-# HackerRank - Databases - Problemset
-
-
 # HackerRank - Databases
 
 https://www.hackerrank.com/domains/databases
