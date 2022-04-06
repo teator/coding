@@ -16,7 +16,7 @@ Maximum points: 449
   |  Basics of Sets and Relations #6  |  Easy  |  Problem Solving (Basic)  |  Max Score: 5  |  Success Rate: 97.15%  |  
   |  Basics of Sets and Relations #7  |  Easy  |  Problem Solving (Basic)  |  Max Score: 5  |  Success Rate: 98.28%  |  
   |  Relational Algebra - 3  |  |    Multiple Choice Question  |  Max Score: 2  |  Success Rate: 67.48%  |  
-  |  Relational Algebra - 4  |  |    Multiple Choice Questio  |  nMax Score: 2  |  Success Rate: 63.69%  |  
+  |  Relational Algebra - 4  |  |    Multiple Choice Question  |  Max Score: 2  |  Success Rate: 63.69%  |  
   |  Database Query Languages  |  |    Multiple Choice Question  |  Max Score: 2  |  Success Rate: 84.21%  |  
   |  Procedural Language  |  |    Multiple Choice Question  |  Max Score: 2  |  Success Rate: 47.36%  |  
   |  Relations - 1  |  |    Multiple Choice Question  |  Max Score: 2  |  Success Rate: 67.81%  |  
