@@ -1,58 +1,68 @@
 # HackerRank - Databases - Problemset
 
 
-- Contents
-    + [Basics of Sets and Relations #1](#01)
-    + [Basics of Sets and Relations #2](#02)
-    + [Basics of Sets and Relations #3](#03)
-    + [Basics of Sets and Relations #4](#04)
-    + [Basics of Sets and Relations #5](#05)
-    + [Basics of Sets and Relations #6](#06)
-    + [Basics of Sets and Relations #7](#07)
-    + [Relational Algebra - 3](#08)
-    + [Relational Algebra - 4](#09)
-    + [Database Query Languages](#10)
-    + [Procedural Language](#11)
-    + [Relations - 1](#12)
-    + [Relations - 2](#13)
-    + [Index Architecture Types](#14)
-    + [OLAP Operations - 1](#15)
-    + [Indexes - 2](#16)
-    + [Indexes - 3](#17)
-    + [OLAP Operations - 2](#18)
-    + [Indexes - 4](#19)
-    + [OLAP Cube Metadata](#20)
-    + [OLAP Name(s)](#21)
-    + [The Total View](#22)
-    + [OLAP Operation Types](#23)
-    + [Map Reduce Advanced - Count number of friends](#24)
-    + [Database Normalization #1 - 1NF](#25)
-    + [Map Reduce Advanced - Relational Join](#26)
-    + [Map Reduce Advanced - Matrix Multiplication](#27)
-    + [Database Normalization #2 - 1/2/3 NF](#28)
-    + [Database Normalization #3](#29)
-    + [Querying XML Datastores with XPath - 1](#30)
-    + [Querying XML Datastores with XPath - 2](#31)
-    + [Database Normalization #4](#32)
-    + [Querying XML Datastores with XPath - 3](#33)
-    + [Database Normalization #5](#34)
-    + [Database Normalization #6](#35)
-    + [Querying XML Datastores with XPath - 4](#36)
-    + [Querying XML Datastores with XPath - 5](#37)
-    + [Database Normalization #7](#38)
-    + [Database Normalization #8](#39)
-    + [Querying XML Datastores with XPath - 6](#40)
-    + [Database Normalization #9](#41)
-    + [Querying XML Datastores with XPath - 7](#42)
-    + [Querying XML Datastores with XPath - 8](#43)
-    + [Database Normalization #10](#44)
-    + [Databases - Relational Calculus](#45)
-    + [Querying XML Datastores with XPath - 9](#46)
-    + [Querying XML Datastores with XPath - 10](#47)
-    + [Databases - Keys](#48)
-    + [Databases - Natural Joins](#49)
-    + [Querying XML Datastores with XPath - 11](#50)
-    + [Databases - Differences](#51)
+# HackerRank - Databases
+
+https://www.hackerrank.com/domains/databases
+
+Maximum points: 449
+
+<br>
+
+|  Problem  |  Difficulty  |  Skills  |  Max score  |  Success Rate  |  Solved  |
+| :---      | :---         | :---     | :---        | :---           | :---:    |
+| [Basics of Sets and Relations #1](#01)  |  Easy  |  Problem Solving (Basic)  |  Max Score: 5  |  Success Rate: 90.11%  |  
+|  [Basics of Sets and Relations #2](#02)  |  Easy  |  Problem Solving (Basic)  |  Max Score: 5  |  Success Rate: 97.32%  |  
+|  [Basics of Sets and Relations #3](#03)  |  Easy  |  Problem Solving (Basic)  |  Max Score: 5  |  Success Rate: 97.25%  |  
+|  [Basics of Sets and Relations #4](#04)  |  Easy  |  Problem Solving (Basic)  |  Max Score: 5  |  Success Rate: 96.90%  |  
+|  [Basics of Sets and Relations #5](#05)  |  Easy  |  Problem Solving (Basic)  |  Max Score: 5  |  Success Rate: 97.65%  |  
+|  [Basics of Sets and Relations #6](#06)  |  Easy  |  Problem Solving (Basic)  |  Max Score: 5  |  Success Rate: 97.15%  |  
+|  [Basics of Sets and Relations #7](#07)  |  Easy  |  Problem Solving (Basic)  |  Max Score: 5  |  Success Rate: 98.28%  |  
+|  [Relational Algebra - 3](#08)  |  |    Multiple Choice Question  |  Max Score: 2  |  Success Rate: 67.48%  |  
+|  [Relational Algebra - 4](#09)  |  |    Multiple Choice Question  |  Max Score: 2  |  Success Rate: 63.69%  |  
+|  [Database Query Languages](#10)  |  |    Multiple Choice Question  |  Max Score: 2  |  Success Rate: 84.21%  |  
+|  [Procedural Language](#11)  |  |    Multiple Choice Question  |  Max Score: 2  |  Success Rate: 47.36%  |  
+|  [Relations - 1](#12)  |  |    Multiple Choice Question  |  Max Score: 2  |  Success Rate: 67.81%  |  
+|  [Relations - 2](#13)  |  |    Multiple Choice Question  |  Max Score: 2  |  Success Rate: 72.60%  |  
+|  [Index Architecture Types](#14)  |  |    Multiple Choice Question  |  Max Score: 2  |  Success Rate: 62.74%  |  
+|  [OLAP Operations - 1](#15)  |  |    Multiple Choice Question  |  Max Score: 5  |  Success Rate: 45.07%  |  
+|  [Indexes - 2](#16)  |  |    Multiple Choice Question  |  Max Score: 2  |  Success Rate: 51.04%  |  
+|  [Indexes - 3](#17)  |  |    Multiple Choice Question  |  Max Score: 2  |  Success Rate: 49.48%  |  
+|  [OLAP Operations - 2](#18)  |  |    Multiple Choice Question  |  Max Score: 5  |  Success Rate: 65.79%  |  
+|  [Indexes - 4](#19)  |  |    Multiple Choice Question  |  Max Score: 2  |  Success Rate: 67.21%  |  
+|  [OLAP Cube Metadata](#20)  |  |    Multiple Choice Question  |  Max Score: 5  |  Success Rate: 63.67%  |  
+|  [OLAP Name(s)](#21)  |  |    Multiple Choice Question  |  Max Score: 5  |  Success Rate: 61.87%  |  
+|  [The Total View](#22)  |  |    Multiple Choice Question  |  Max Score: 5  |  Success Rate: 55.16%  |  
+|  [OLAP Operation Types](#23)  |  |    Multiple Choice Question  |  Max Score: 5  |  Success Rate: 41.39%  |  
+|  [Map Reduce Advanced - Count number of friends](#24)  |  Hard  |  |    Max Score: 30  |  Success Rate: 77.95%  |  
+|  [Database Normalization #1 - 1NF](#25)  |  Easy  |  |    Max Score: 5  |  Success Rate: 83.59%  |  
+|  [Map Reduce Advanced - Relational Join](#26)  |  Hard  |  |    Max Score: 40  |  Success Rate: 90.45%  |  
+|  [Map Reduce Advanced - Matrix Multiplication](#27)  |  Advanced  |  |    Max Score: 50  |  Success Rate: 87.23%  |  
+|  [Database Normalization #2 - 1/2/3 NF](#28)  |  Easy  |  |    Max Score: 5  |  Success Rate: 95.18%  |  
+|  [Database Normalization #3](#29)  |  Hard  |  |    Max Score: 5  |  Success Rate: 97.34%  |  
+|  [Querying XML Datastores with XPath - 1](#30)  |  Easy  |  |    Max Score: 10  |  Success Rate: 93.27%  |  
+|  [Querying XML Datastores with XPath - 2](#31)  |  Easy  |  |    Max Score: 10  |  Success Rate: 95.86%  |  
+|  [Database Normalization #4](#32)  |  Easy  |  |    Max Score: 5  |  Success Rate: 94.98%  |  
+|  [Querying XML Datastores with XPath - 3](#33)  |  Easy  |  |    Max Score: 1  |  5Success Rate: 96.07%  |  
+|  [Database Normalization #5](#34)  |  Medium  |  |    Max Score: 5  |  Success Rate: 93.52%  |  
+|  [Database Normalization #6](#35)  |  Medium  |  |    Max Score: 5  |  Success Rate: 96.15%  |  
+|  [Querying XML Datastores with XPath - 4](#36)  |  Easy  |  |    Max Score: 1  |  5Success Rate: 97.32%  |  
+|  [Querying XML Datastores with XPath - 5](#37)  |  Easy  |  |    Max Score: 1  |  5Success Rate: 97.36%  |  
+|  [Database Normalization #7](#38)  |  Medium  |  |    Max Score: 5  |  Success Rate: 94.23%  |  
+|  [Database Normalization #8](#39)  |  Medium  |  |    Max Score: 5  |  Success Rate: 96.47%  |  
+|  [Querying XML Datastores with XPath - 6](#40)  |  Easy  |  |    Max Score: 15  |  Success Rate: 97.73%  |  
+|  [Database Normalization #9](#41)  |  Hard  |  |    Max Score: 5  |  Success Rate: 98.54%  |  
+|  [Querying XML Datastores with XPath - 7](#42)  |  Easy  |  |    Max Score: 20  |  Success Rate: 96.94%  |  
+|  [Querying XML Datastores with XPath - 8](#43)  |  Medium  |  |    Max Score: 15  |  Success Rate: 97.34%  |  
+|  [Database Normalization #10](#44)  |  Medium  |  |    Max Score: 5  |  Success Rate: 95.30%  |  
+|  [Databases - Relational Calculus](#45)  |  Medium  |  |    Max Score: 5  |  Success Rate: 85.90%  |  
+|  [Querying XML Datastores with XPath - 9](#46)  |  Hard  |  |    Max Score: 15  |  Success Rate: 97.66%  |  
+|  [Querying XML Datastores with XPath - 10](#47)  |  Medium  |  |    Max Score: 15  |  Success Rate: 97.24%  |  
+|  [Databases - Keys](#48)  |  Medium  |  |    Max Score: 5  |  Success Rate: 98.01%  |  
+|  [Databases - Natural Joins](#49)  |  Medium  |  |    Max Score: 5  |  Success Rate: 95.63%  |  
+|  [Querying XML Datastores with XPath - 11](#50)  |  Medium  |  |    Max Score: 15  |  Success Rate: 98.07%  |  
+|  [Databases - Differences](#51)  |  Medium  |  |    Max Score: 5  |  Success Rate: 97.02%  |  
+
 
 
 <br>
